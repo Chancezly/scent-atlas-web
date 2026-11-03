@@ -69,6 +69,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://mall.jd.com/view_search-2281421-22099459-99-1-24-1.html",
+        "type": "retailer-series",
+        "verifiedAt": "2026-11-04",
+        "label": "京东自营旗舰店：失落樱桃系列（非价格依据）"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"

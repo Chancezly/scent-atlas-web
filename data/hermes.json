@@ -949,7 +949,7 @@
   {
     "id": "hermes-caleche-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕凯莱诗淡香水",
     "nameEn": "Caleche Eau de toilette",
     "aliases": [],
     "series": "Caleche",
@@ -960,12 +960,28 @@
     "image": null,
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "hermes-caleche-eau-de-toilette-100ml",
+        "ml": 100,
+        "priceCnyFen": 160000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
       }
     ],
     "description": null
@@ -1165,7 +1181,7 @@
   {
     "id": "hermes-terre-d-hermes-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕大地香精",
     "nameEn": "Terre d'Hermes Parfum",
     "aliases": [],
     "series": "Terre d'Hermes",
@@ -1185,12 +1201,28 @@
     },
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "hermes-terre-d-hermes-parfum-75ml",
+        "ml": 75,
+        "priceCnyFen": 148000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地香精-V107757V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地香精-V107757V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
       }
     ],
     "description": null
@@ -1198,7 +1230,7 @@
   {
     "id": "hermes-terre-d-hermes-eau-givree-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕大地泠洌之水香水",
     "nameEn": "Terre d'Hermes Eau Givree Eau de parfum",
     "aliases": [],
     "series": "Terre d'Hermes Eau Givree",
@@ -1209,12 +1241,28 @@
     "image": null,
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "hermes-terre-d-hermes-eau-givree-eau-de-parfum-50ml",
+        "ml": 50,
+        "priceCnyFen": 98000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
       }
     ],
     "description": null
@@ -1222,7 +1270,7 @@
   {
     "id": "hermes-terre-d-hermes-eau-intense-vetiver-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕大地馥郁香根草香型香水",
     "nameEn": "Terre d'Hermes Eau Intense Vetiver Eau de parfum",
     "aliases": [],
     "series": "Terre d'Hermes Eau Intense Vetiver",
@@ -1233,12 +1281,28 @@
     "image": null,
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "hermes-terre-d-hermes-eau-intense-vetiver-eau-de-parfum-50ml",
+        "ml": 50,
+        "priceCnyFen": 98000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
       }
     ],
     "description": null
