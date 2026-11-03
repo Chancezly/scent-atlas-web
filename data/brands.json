@@ -1,0 +1,46 @@
+[
+  {
+    "id": "jo-malone",
+    "nameZh": "祖·玛珑",
+    "nameEn": "Jo Malone London",
+    "aliases": [
+      "祖玛珑",
+      "祖马龙"
+    ],
+    "website": "https://www.jomalone.com.cn/"
+  },
+  {
+    "id": "tom-ford",
+    "nameZh": "汤姆福特",
+    "nameEn": "Tom Ford",
+    "aliases": [
+      "TF"
+    ],
+    "website": "https://www.tomfordbeauty.com/"
+  },
+  {
+    "id": "le-labo",
+    "nameZh": "Le Labo",
+    "nameEn": "Le Labo",
+    "aliases": [
+      "香水实验室"
+    ],
+    "website": "https://www.lelabofragrances.com/"
+  },
+  {
+    "id": "hermes",
+    "nameZh": "爱马仕",
+    "nameEn": "Hermès",
+    "aliases": [
+      "Hermes"
+    ],
+    "website": "https://www.hermes.cn/"
+  },
+  {
+    "id": "chillmore",
+    "nameZh": "且悠",
+    "nameEn": "CHILLMORE",
+    "aliases": [],
+    "website": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf"
+  }
+]

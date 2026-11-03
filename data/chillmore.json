@@ -1,0 +1,764 @@
+[
+  {
+    "id": "chillmore-summer-chords-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "夏夜虫鸣滚珠香水油",
+    "nameEn": "Summer Chords Roll-on Perfume Oil",
+    "aliases": [
+      "夏夜虫鸣",
+      "Summer Chords"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "芳香木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "grapefruit",
+      "eucalyptus",
+      "mint",
+      "artemisia",
+      "pink-pepper",
+      "elderflower",
+      "vetiver",
+      "patchouli",
+      "angelica"
+    ],
+    "pyramid": {
+      "top": [
+        "grapefruit",
+        "eucalyptus",
+        "mint"
+      ],
+      "heart": [
+        "artemisia",
+        "pink-pepper",
+        "elderflower"
+      ],
+      "base": [
+        "vetiver",
+        "patchouli",
+        "angelica"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-summer-chords-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-sparkling-coast-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "海岸烟火滚珠香水油",
+    "nameEn": "Sparkling Coast Roll-on Perfume Oil",
+    "aliases": [
+      "海岸烟火",
+      "Sparkling Coast"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "水生木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "lemon",
+      "pepper",
+      "honeysuckle",
+      "sea-breeze",
+      "flint",
+      "juniper",
+      "patchouli",
+      "eucalyptus",
+      "musk",
+      "amber"
+    ],
+    "pyramid": {
+      "top": [
+        "bergamot",
+        "lemon",
+        "pepper"
+      ],
+      "heart": [
+        "honeysuckle",
+        "sea-breeze",
+        "flint",
+        "juniper"
+      ],
+      "base": [
+        "patchouli",
+        "eucalyptus",
+        "musk",
+        "amber"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-sparkling-coast-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-bench-talk-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "森林长椅滚珠香水油",
+    "nameEn": "Bench Talk Roll-on Perfume Oil",
+    "aliases": [
+      "森林长椅",
+      "Bench Talk"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "木质馥奇调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "citrus",
+      "citron",
+      "bergamot",
+      "violet",
+      "artemisia",
+      "chestnut",
+      "moss",
+      "patchouli",
+      "juniper",
+      "ambergris"
+    ],
+    "pyramid": {
+      "top": [
+        "citrus",
+        "citron",
+        "bergamot"
+      ],
+      "heart": [
+        "violet",
+        "artemisia",
+        "chestnut"
+      ],
+      "base": [
+        "moss",
+        "patchouli",
+        "juniper",
+        "ambergris"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-bench-talk-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-sunrise-listener-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "晨钟日出滚珠香水油",
+    "nameEn": "Sunrise Listener Roll-on Perfume Oil",
+    "aliases": [
+      "晨钟日出",
+      "Sunrise Listener"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "东方木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "black-pepper",
+      "huyou",
+      "hassaku-orange",
+      "rhubarb",
+      "myrrh",
+      "guaiac-wood",
+      "cashmere-wood",
+      "vetiver",
+      "benzoin",
+      "sandalwood",
+      "oud"
+    ],
+    "pyramid": {
+      "top": [
+        "black-pepper",
+        "huyou",
+        "hassaku-orange"
+      ],
+      "heart": [
+        "rhubarb",
+        "myrrh",
+        "guaiac-wood",
+        "cashmere-wood"
+      ],
+      "base": [
+        "vetiver",
+        "benzoin",
+        "sandalwood",
+        "oud"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-sunrise-listener-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-rose-unexpected-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "街角花摊滚珠香水油",
+    "nameEn": "Rose Unexpected Roll-on Perfume Oil",
+    "aliases": [
+      "街角花摊",
+      "Rose Unexpected"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "花香果香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "pear",
+      "blackcurrant",
+      "violet-leaf",
+      "rose",
+      "geranium",
+      "camellia",
+      "ivy",
+      "vetiver",
+      "musk",
+      "cedarwood",
+      "sandalwood"
+    ],
+    "pyramid": {
+      "top": [
+        "bergamot",
+        "pear",
+        "blackcurrant",
+        "violet-leaf"
+      ],
+      "heart": [
+        "rose",
+        "geranium",
+        "camellia",
+        "ivy"
+      ],
+      "base": [
+        "vetiver",
+        "musk",
+        "cedarwood",
+        "sandalwood"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-rose-unexpected-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-yuzu-ocean-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "日落柚海滚珠香水油",
+    "nameEn": "Yuzu Ocean Roll-on Perfume Oil",
+    "aliases": [
+      "日落柚海",
+      "Yuzu Ocean"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "柑橘调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "yuzu",
+      "sweet-orange",
+      "lemon",
+      "bergamot",
+      "jasmine",
+      "sage",
+      "yuzu-tea",
+      "musk",
+      "cedarwood"
+    ],
+    "pyramid": {
+      "top": [
+        "yuzu",
+        "sweet-orange",
+        "lemon",
+        "bergamot"
+      ],
+      "heart": [
+        "jasmine",
+        "sage",
+        "yuzu-tea"
+      ],
+      "base": [
+        "musk",
+        "cedarwood"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-yuzu-ocean-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-misty-garden-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "薄雾花园滚珠香水油",
+    "nameEn": "Misty Garden Roll-on Perfume Oil",
+    "aliases": [
+      "薄雾花园",
+      "Misty Garden"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "绿叶花香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "green-accord",
+      "watery-accord",
+      "lily-of-the-valley",
+      "jasmine",
+      "tuberose",
+      "gardenia",
+      "hibiscus",
+      "white-musk",
+      "oakmoss",
+      "amber"
+    ],
+    "pyramid": {
+      "top": [
+        "green-accord",
+        "watery-accord",
+        "lily-of-the-valley"
+      ],
+      "heart": [
+        "jasmine",
+        "tuberose",
+        "gardenia",
+        "hibiscus"
+      ],
+      "base": [
+        "white-musk",
+        "oakmoss",
+        "amber"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-misty-garden-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-island-vibe-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "海岛一日滚珠香水油",
+    "nameEn": "Island Vibe Roll-on Perfume Oil",
+    "aliases": [
+      "海岛一日",
+      "Island Vibe"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "绿叶果香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "fig-leaf",
+      "grapefruit",
+      "bergamot",
+      "mint",
+      "fig",
+      "clove-leaf",
+      "coconut-milk",
+      "sea-water",
+      "geranium",
+      "ambergris",
+      "tonka-bean",
+      "musk"
+    ],
+    "pyramid": {
+      "top": [
+        "fig-leaf",
+        "grapefruit",
+        "bergamot",
+        "mint"
+      ],
+      "heart": [
+        "fig",
+        "clove-leaf",
+        "coconut-milk",
+        "sea-water",
+        "geranium"
+      ],
+      "base": [
+        "ambergris",
+        "tonka-bean",
+        "musk"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-island-vibe-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-snowy-night-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "月下梅里滚珠香水油",
+    "nameEn": "Snowy Night Roll-on Perfume Oil",
+    "aliases": [
+      "月下梅里",
+      "Snowy Night"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "水生调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "neroli",
+      "grapefruit",
+      "yuzu",
+      "bitter-orange",
+      "seaweed",
+      "rosemary",
+      "watery-accord",
+      "cedarwood",
+      "amber"
+    ],
+    "pyramid": {
+      "top": [
+        "neroli",
+        "grapefruit",
+        "yuzu",
+        "bitter-orange"
+      ],
+      "heart": [
+        "seaweed",
+        "rosemary",
+        "watery-accord"
+      ],
+      "base": [
+        "cedarwood",
+        "amber"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-snowy-night-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-tea-break-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "茶歇滚珠香水油",
+    "nameEn": "Tea Break Roll-on Perfume Oil",
+    "aliases": [
+      "茶歇",
+      "Tea Break"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "芳香木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "citrus",
+      "bergamot",
+      "sage",
+      "white-tea",
+      "aromatic-accord",
+      "amber",
+      "ambergris"
+    ],
+    "pyramid": {
+      "top": [
+        "citrus",
+        "bergamot",
+        "sage"
+      ],
+      "heart": [
+        "white-tea",
+        "aromatic-accord"
+      ],
+      "base": [
+        "amber",
+        "ambergris"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-tea-break-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-morning-cedar-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "西泠松舍滚珠香水油",
+    "nameEn": "Morning Cedar Roll-on Perfume Oil",
+    "aliases": [
+      "西泠松舍",
+      "Morning Cedar"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "mandarin",
+      "grapefruit",
+      "pine-needles",
+      "neroli",
+      "patchouli",
+      "cedarwood",
+      "galbanum",
+      "oakmoss"
+    ],
+    "pyramid": {
+      "top": [
+        "mandarin",
+        "grapefruit"
+      ],
+      "heart": [
+        "pine-needles",
+        "neroli",
+        "patchouli"
+      ],
+      "base": [
+        "cedarwood",
+        "galbanum",
+        "oakmoss"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-morning-cedar-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  },
+  {
+    "id": "chillmore-tangerine-yard-roll-on-perfume-oil",
+    "brandId": "chillmore",
+    "nameZh": "庭中橘树滚珠香水油",
+    "nameEn": "Tangerine Yard Roll-on Perfume Oil",
+    "aliases": [
+      "庭中橘树",
+      "Tangerine Yard"
+    ],
+    "series": "滚珠香水油",
+    "concentration": "香水油",
+    "family": "柑橘花香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "lemon-verbena",
+      "sweet-orange",
+      "clementine",
+      "neroli",
+      "jasmine",
+      "petitgrain",
+      "amber",
+      "vetiver",
+      "labdanum"
+    ],
+    "pyramid": {
+      "top": [
+        "lemon-verbena",
+        "sweet-orange",
+        "clementine"
+      ],
+      "heart": [
+        "neroli",
+        "jasmine",
+        "petitgrain"
+      ],
+      "base": [
+        "amber",
+        "vetiver",
+        "labdanum"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "chillmore-tangerine-yard-roll-on-perfume-oil-10ml",
+        "ml": 10,
+        "priceCnyFen": null,
+        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
+        "type": "brand-brochure",
+        "verifiedAt": "2026-11-03",
+        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+      }
+    ],
+    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+  }
+]

@@ -1,0 +1,2075 @@
+[
+  {
+    "id": "tom-ford-oud-voyager-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Oud Voyager Eau de Parfum",
+    "aliases": [],
+    "series": "Oud Voyager",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "oud",
+      "geranium",
+      "peony",
+      "cypriol",
+      "osmanthus"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/oud-voyager-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-lost-cherry-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Lost Cherry Eau de Parfum",
+    "aliases": [],
+    "series": "Lost Cherry",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tonka-bean",
+      "bitter-almond",
+      "cherry-accord",
+      "rose",
+      "peru-balsam"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-tobacco-vanille-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Tobacco Vanille Eau de Parfum",
+    "aliases": [],
+    "series": "Tobacco Vanille",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tonka-bean",
+      "tobacco",
+      "ginger",
+      "cocoa"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Eau de Soleil Blanc Eau de Toilette",
+    "aliases": [],
+    "series": "Eau de Soleil Blanc",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "tom-ford-black-orchid-reserve",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Black Orchid Reserve",
+    "aliases": [],
+    "series": "Black Orchid Reserve",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "tonka-bean",
+      "orchid-accord",
+      "truffle",
+      "ylang-ylang"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/black-orchid-reserve-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-noir-extreme",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Noir Extreme",
+    "aliases": [],
+    "series": "Noir Extreme",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "rose",
+      "saffron",
+      "kulfi",
+      "sandalwood",
+      "vanilla",
+      "neroli"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/noir-extreme-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-tobacco-chocolat-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Tobacco Chocolat Eau de Parfum",
+    "aliases": [],
+    "series": "Tobacco Chocolat",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "cocoa",
+      "peru-balsam"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/tobacco-chocolat-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-ombre-leather-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Ombré Leather Eau De Parfum",
+    "aliases": [],
+    "series": "Ombré Leather",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "patchouli",
+      "amber",
+      "jasmine",
+      "moss",
+      "leather"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-oud-wood-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Oud Wood Eau de Parfum",
+    "aliases": [],
+    "series": "Oud Wood",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "pink-pepper",
+      "patchouli",
+      "amber",
+      "oud",
+      "tonka-bean"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-tobacco-vanille-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Tobacco Vanille Parfum",
+    "aliases": [],
+    "series": "Tobacco Vanille",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tobacco",
+      "ginger",
+      "vanilla",
+      "oakwood"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/tobacco-vanille-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-figue-erotique-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Figue Érotique Eau de Parfum",
+    "aliases": [],
+    "series": "Figue Érotique",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "ylang-ylang",
+      "fig",
+      "muscovado",
+      "vetiver"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/figue-erotique-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-black-orchid-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Black Orchid Eau de Parfum",
+    "aliases": [],
+    "series": "Black Orchid",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "orchid-accord",
+      "truffle",
+      "ylang-ylang",
+      "plum",
+      "rum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-fucking-fabulous-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Fucking Fabulous Eau de Parfum",
+    "aliases": [],
+    "series": "Fucking Fabulous",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tonka-bean",
+      "orris",
+      "cashmeran",
+      "leather",
+      "clary-sage"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/fucking-fabulous-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-taormina-orange-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Taormina Orange Eau de Parfum",
+    "aliases": [],
+    "series": "Taormina Orange",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "patchouli",
+      "blood-orange",
+      "orange-flower",
+      "oakmoss"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/taormina-orange-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-neroli-portofino-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Neroli Portofino Eau de Parfum",
+    "aliases": [],
+    "series": "Neroli Portofino",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "orange-flower",
+      "neroli",
+      "mandarin",
+      "lavender"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-vanilla-sex-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Vanilla Sex Eau de Parfum",
+    "aliases": [],
+    "series": "Vanilla Sex",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "sandalwood",
+      "vanilla",
+      "orris"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/vanilla-sex-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-soleil-blanc-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Soleil Blanc Eau de Parfum",
+    "aliases": [],
+    "series": "Soleil Blanc",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "ylang-ylang",
+      "bergamot",
+      "pistachio",
+      "benzoin",
+      "coco-de-mer-accord"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/soleil-blanc-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Eau De Grey Vetiver Eau De Toilette",
+    "aliases": [],
+    "series": "Eau De Grey Vetiver",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "vetiver",
+      "iris",
+      "grapefruit",
+      "musk"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/eau-de-grey-vetiver-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-bitter-peach-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Bitter Peach Eau de Parfum",
+    "aliases": [],
+    "series": "Bitter Peach",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "sandalwood",
+      "blood-orange",
+      "davana",
+      "labdanum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/bitter-peach-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-santal-blush-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Santal Blush Eau de Parfum",
+    "aliases": [],
+    "series": "Santal Blush",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "sandalwood",
+      "ylang-ylang",
+      "benzoin",
+      "cinnamon",
+      "carrot-seed",
+      "cedarwood"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/santal-blush-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-neroli-portofino-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Neroli Portofino Parfum",
+    "aliases": [],
+    "series": "Neroli Portofino",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "bergamot",
+      "clary-sage",
+      "neroli",
+      "petitgrain"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/neroli-portofino-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-soleil-neige-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Soleil Neige Eau de Parfum",
+    "aliases": [],
+    "series": "Soleil Neige",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "bergamot",
+      "benzoin",
+      "musk",
+      "labdanum",
+      "cistus"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/soleil-neige-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-electric-cherry-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Electric Cherry Eau de Parfum",
+    "aliases": [],
+    "series": "Electric Cherry",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "ginger",
+      "cherry-accord",
+      "jasmine",
+      "pistachio",
+      "ambrettolide"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/electric-cherry-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-grey-vetiver-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Grey Vetiver Eau de Parfum",
+    "aliases": [],
+    "series": "Grey Vetiver",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "vetiver",
+      "orange-flower",
+      "oakmoss",
+      "grapefruit",
+      "nutmeg",
+      "pimento"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/grey-vetiver-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-bois-pacifique-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Bois Pacifique Eau de Parfum",
+    "aliases": [],
+    "series": "Bois Pacifique",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "sandalwood",
+      "oakwood",
+      "turmeric",
+      "akigalawood",
+      "olibanum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/bois-pacifique-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-rose-prick-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Rose Prick Eau de Parfum",
+    "aliases": [],
+    "series": "Rose Prick",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "tonka-bean",
+      "rose",
+      "turmeric",
+      "tolu-balsam"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/rose-prick-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-eau-dombre-leather-eau-de-toilette",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Eau d’Ombré Leather Eau de Toilette",
+    "aliases": [],
+    "series": "Eau d’Ombré Leather",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tonka-bean",
+      "sandalwood",
+      "vanilla",
+      "leather",
+      "benzoin"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/eau-dombre-leather-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-ombre-leather-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Ombré Leather Parfum",
+    "aliases": [],
+    "series": "Ombré Leather",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "patchouli",
+      "amber",
+      "jasmine",
+      "moss",
+      "leather"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/ombre-leather-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-oud-minerale-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Oud Minérale Eau de Parfum",
+    "aliases": [],
+    "series": "Oud Minérale",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "tom-ford-cherry-smoke-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Cherry Smoke Eau de Parfum",
+    "aliases": [],
+    "series": "Cherry Smoke",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cherry-accord",
+      "peru-balsam",
+      "cypriol",
+      "osmanthus",
+      "olibanum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/cherry-smoke-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-vanille-fatale-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Vanille Fatale Eau de Parfum",
+    "aliases": [],
+    "series": "Vanille Fatale",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "vanilla",
+      "coffee",
+      "mahogany",
+      "barley"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/vanille-fatale-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-oud-wood-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Oud Wood Parfum",
+    "aliases": [],
+    "series": "Oud Wood",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "pink-pepper",
+      "patchouli",
+      "amber",
+      "oud",
+      "tonka-bean"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/oud-wood-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-ebene-fume-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Ébène Fumé Eau de Parfum",
+    "aliases": [],
+    "series": "Ébène Fumé",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "palo-santo",
+      "ebony",
+      "black-pepper",
+      "cistus"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/ebene-fume-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-myrrhe-mystere-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Myrrhe Mystère Eau de Parfum",
+    "aliases": [],
+    "series": "Myrrhe Mystère",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "sandalwood",
+      "leather",
+      "myrrh",
+      "absinthe"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/myrrhe-mystere-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-costa-azzurra-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Costa Azzurra Parfum",
+    "aliases": [],
+    "series": "Costa Azzurra",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "amber",
+      "oakwood",
+      "cistus",
+      "lemon",
+      "cypress",
+      "driftwood"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/costa-azzurra-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-white-suede-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "White Suede Eau de Parfum",
+    "aliases": [],
+    "series": "White Suede",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "saffron",
+      "leather",
+      "musk",
+      "olibanum",
+      "thyme",
+      "mate",
+      "suede"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/white-suede-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-costa-azzurra-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Costa Azzurra Eau de Parfum",
+    "aliases": [],
+    "series": "Costa Azzurra",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "amber",
+      "oakwood",
+      "cistus",
+      "lemon",
+      "cypress",
+      "driftwood"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/costa-azzurra-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-amber-intrigue-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Amber Intrigue Eau de Parfum",
+    "aliases": [],
+    "series": "Amber Intrigue",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "amber",
+      "sandalwood",
+      "vetiver",
+      "labdanum",
+      "olibanum",
+      "date"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/amber-intrigue-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-black-lacquer-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Black Lacquer Eau de Parfum",
+    "aliases": [],
+    "series": "Black Lacquer",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "peony",
+      "cedarwood",
+      "olibanum",
+      "ebony"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/black-lacquer-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-rose-exposed-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Rose Exposed Eau de Parfum",
+    "aliases": [],
+    "series": "Rose Exposed",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "rose",
+      "cashmeran",
+      "leather",
+      "white-pepper"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/rose-exposed-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-noir-de-noir-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Noir de Noir Eau de Parfum",
+    "aliases": [],
+    "series": "Noir de Noir",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "oud",
+      "saffron",
+      "vanilla",
+      "truffle",
+      "crocus"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/noir-de-noir-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-bois-marocain-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Bois Marocain Eau de Parfum",
+    "aliases": [],
+    "series": "Bois Marocain",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "sandalwood",
+      "vetiver",
+      "cedarwood",
+      "juniper",
+      "thuya"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/bois-marocain-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-soleil-blanc-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Soleil Blanc Parfum",
+    "aliases": [],
+    "series": "Soleil Blanc",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "cardamom",
+      "jasmine",
+      "vanilla",
+      "ylang-ylang",
+      "pistachio",
+      "coco-de-mer-accord"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/soleil-blanc-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-mandarino-di-amalfi-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Mandarino di Amalfi Eau de Parfum",
+    "aliases": [],
+    "series": "Mandarino di Amalfi",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "mandarin",
+      "lemon",
+      "basil",
+      "spearmint",
+      "shiso"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/mandarino-di-amalfi-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-tuscan-leather-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Tuscan Leather Eau de Parfum",
+    "aliases": [],
+    "series": "Tuscan Leather",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "saffron",
+      "leather",
+      "olibanum",
+      "thyme",
+      "suede",
+      "raspberry"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/tuscan-leather-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-fucking-fabulous-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Fucking Fabulous Parfum",
+    "aliases": [],
+    "series": "Fucking Fabulous",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tonka-bean",
+      "orris",
+      "cashmeran",
+      "leather",
+      "clary-sage",
+      "fir-balsam"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/fucking-fabulous-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-cafe-rose-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Café Rose Eau de Parfum",
+    "aliases": [],
+    "series": "Café Rose",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "tom-ford-azure-lime-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Azure Lime Eau de Parfum",
+    "aliases": [],
+    "series": "Azure Lime",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "sandalwood",
+      "lime",
+      "buchu"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/azure-lime-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-soleil-de-feu-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Soleil de Feu Eau de Parfum",
+    "aliases": [],
+    "series": "Soleil de Feu",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "sandalwood",
+      "benzoin"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/soleil-de-feu-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-velvet-orchid-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Velvet Orchid Eau de Parfum",
+    "aliases": [],
+    "series": "Velvet Orchid",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine",
+      "sandalwood",
+      "orchid-accord",
+      "bergamot",
+      "mandarin",
+      "myrrh"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/velvet-orchid-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-grey-vetiver-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Grey Vetiver Parfum",
+    "aliases": [],
+    "series": "Grey Vetiver",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "vetiver",
+      "orange-flower",
+      "oakmoss",
+      "grapefruit",
+      "nutmeg",
+      "pimento"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/grey-vetiver-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-black-orchid-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Black Orchid Parfum",
+    "aliases": [],
+    "series": "Black Orchid",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "orchid-accord",
+      "truffle",
+      "ylang-ylang",
+      "plum",
+      "rum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/black-orchid-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-noir-extreme-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Noir Extreme Parfum",
+    "aliases": [],
+    "series": "Noir Extreme",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "rose",
+      "saffron",
+      "kulfi",
+      "sandalwood",
+      "vanilla",
+      "neroli"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/noir-extreme-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-rose-d-amalfi-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Rose D'Amalfi Eau de Parfum",
+    "aliases": [],
+    "series": "Rose D'Amalfi",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "tom-ford-fougere-d-argent-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Fougère D'Argent Eau de Parfum",
+    "aliases": [],
+    "series": "Fougère D'Argent",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "ginger",
+      "mandarin",
+      "lavender",
+      "akigalawood",
+      "cistus",
+      "coumarin"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/fougere-dargent-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-black-orchid-eau-de-toilette",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Black Orchid Eau de Toilette",
+    "aliases": [],
+    "series": "Black Orchid",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "patchouli",
+      "orchid-accord",
+      "truffle",
+      "ylang-ylang",
+      "plum",
+      "rum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  },
+  {
+    "id": "tom-ford-jasmin-rouge-eau-de-parfum",
+    "brandId": "tom-ford",
+    "nameZh": null,
+    "nameEn": "Jasmin Rouge Eau de Parfum",
+    "aliases": [],
+    "series": "Jasmin Rouge",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "amber",
+      "ylang-ylang",
+      "clary-sage",
+      "labdanum"
+    ],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.tomfordbeauty.com/collections/fragrance",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.com/products/jasmin-rouge-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "官方商品页 Key Notes（统一香调词表）"
+      }
+    ],
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+  }
+]

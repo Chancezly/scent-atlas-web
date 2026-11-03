@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "grapefruit",
+    "nameZh": "葡萄柚",
+    "nameEn": "Grapefruit",
+    "aliases": [
+      "葡萄柚",
+      "Grapefruit",
+      "西柚"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "eucalyptus",
+    "nameZh": "尤加利",
+    "nameEn": "Eucalyptus",
+    "aliases": [
+      "尤加利",
+      "Eucalyptus"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "mint",
+    "nameZh": "薄荷",
+    "nameEn": "Mint",
+    "aliases": [
+      "薄荷",
+      "Mint",
+      "薄荷叶",
+      "Fresh Mint Leaf"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "artemisia",
+    "nameZh": "艾草",
+    "nameEn": "Artemisia",
+    "aliases": [
+      "艾草",
+      "Artemisia"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pink-pepper",
+    "nameZh": "粉红胡椒",
+    "nameEn": "Pink pepper",
+    "aliases": [
+      "粉红胡椒",
+      "Pink pepper"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "elderflower",
+    "nameZh": "接骨木花",
+    "nameEn": "Elderflower",
+    "aliases": [
+      "接骨木花",
+      "Elderflower"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "vetiver",
+    "nameZh": "香根草",
+    "nameEn": "Vetiver",
+    "aliases": [
+      "香根草",
+      "Vetiver"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "patchouli",
+    "nameZh": "广藿香",
+    "nameEn": "Patchouli",
+    "aliases": [
+      "广藿香",
+      "Patchouli",
+      "Natural Patchouli"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "angelica",
+    "nameZh": "当归",
+    "nameEn": "Angelica",
+    "aliases": [
+      "当归",
+      "Angelica"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bergamot",
+    "nameZh": "佛手柑",
+    "nameEn": "Bergamot",
+    "aliases": [
+      "佛手柑",
+      "香柠檬",
+      "Bergamot"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lemon",
+    "nameZh": "柠檬",
+    "nameEn": "Lemon",
+    "aliases": [
+      "柠檬",
+      "Lemon"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pepper",
+    "nameZh": "胡椒",
+    "nameEn": "Pepper",
+    "aliases": [
+      "胡椒",
+      "Pepper"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "honeysuckle",
+    "nameZh": "忍冬",
+    "nameEn": "Honeysuckle",
+    "aliases": [
+      "忍冬",
+      "Honeysuckle",
+      "English Honeysuckle"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sea-breeze",
+    "nameZh": "海风",
+    "nameEn": "Sea breeze",
+    "aliases": [
+      "海风",
+      "Sea breeze"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "flint",
+    "nameZh": "火石",
+    "nameEn": "Flint",
+    "aliases": [
+      "火石",
+      "Flint"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "juniper",
+    "nameZh": "杜松",
+    "nameEn": "Juniper",
+    "aliases": [
+      "杜松",
+      "Juniper"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "musk",
+    "nameZh": "麝香",
+    "nameEn": "Musk",
+    "aliases": [
+      "麝香",
+      "Musk"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "amber",
+    "nameZh": "琥珀",
+    "nameEn": "Amber",
+    "aliases": [
+      "琥珀",
+      "Amber"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "citrus",
+    "nameZh": "柑橘",
+    "nameEn": "Citrus",
+    "aliases": [
+      "柑橘",
+      "Citrus"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "citron",
+    "nameZh": "香橼",
+    "nameEn": "Citron",
+    "aliases": [
+      "香橼",
+      "Citron"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "violet",
+    "nameZh": "紫罗兰",
+    "nameEn": "Violet",
+    "aliases": [
+      "紫罗兰",
+      "Violet"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "chestnut",
+    "nameZh": "栗子",
+    "nameEn": "Chestnut",
+    "aliases": [
+      "栗子",
+      "Chestnut"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "moss",
+    "nameZh": "苔藓",
+    "nameEn": "Moss",
+    "aliases": [
+      "苔藓",
+      "Moss"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambergris",
+    "nameZh": "龙涎香",
+    "nameEn": "Ambergris",
+    "aliases": [
+      "龙涎香",
+      "Ambergris"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "black-pepper",
+    "nameZh": "黑胡椒",
+    "nameEn": "Black pepper",
+    "aliases": [
+      "黑胡椒",
+      "Black pepper"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "huyou",
+    "nameZh": "胡柚",
+    "nameEn": "Huyou",
+    "aliases": [
+      "胡柚",
+      "Huyou"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "hassaku-orange",
+    "nameZh": "八朔橘",
+    "nameEn": "Hassaku orange",
+    "aliases": [
+      "八朔橘",
+      "Hassaku orange"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "rhubarb",
+    "nameZh": "大黄",
+    "nameEn": "Rhubarb",
+    "aliases": [
+      "大黄",
+      "Rhubarb"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "myrrh",
+    "nameZh": "没药",
+    "nameEn": "Myrrh",
+    "aliases": [
+      "没药",
+      "Myrrh"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "guaiac-wood",
+    "nameZh": "愈创木",
+    "nameEn": "Guaiac wood",
+    "aliases": [
+      "愈创木",
+      "Guaiac wood",
+      "Guaiacwood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cashmere-wood",
+    "nameZh": "开司米木",
+    "nameEn": "Cashmere wood",
+    "aliases": [
+      "开司米木",
+      "Cashmere wood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "benzoin",
+    "nameZh": "安息香脂",
+    "nameEn": "Benzoin",
+    "aliases": [
+      "安息香脂",
+      "Benzoin",
+      "Benzoin Resin"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sandalwood",
+    "nameZh": "檀香木",
+    "nameEn": "Sandalwood",
+    "aliases": [
+      "檀香木",
+      "Sandalwood",
+      "檀香"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "oud",
+    "nameZh": "沉香",
+    "nameEn": "Oud",
+    "aliases": [
+      "沉香",
+      "Oud"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pear",
+    "nameZh": "梨",
+    "nameEn": "Pear",
+    "aliases": [
+      "梨",
+      "Pear"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "blackcurrant",
+    "nameZh": "黑醋栗",
+    "nameEn": "Blackcurrant",
+    "aliases": [
+      "黑醋栗",
+      "Blackcurrant",
+      "Cassis"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "violet-leaf",
+    "nameZh": "紫罗兰叶",
+    "nameEn": "Violet leaf",
+    "aliases": [
+      "紫罗兰叶",
+      "Violet leaf"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "rose",
+    "nameZh": "玫瑰",
+    "nameEn": "Rose",
+    "aliases": [
+      "玫瑰",
+      "Rose"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "geranium",
+    "nameZh": "老鹳草",
+    "nameEn": "Geranium",
+    "aliases": [
+      "老鹳草",
+      "Geranium",
+      "天竺葵"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "camellia",
+    "nameZh": "山茶花",
+    "nameEn": "Camellia",
+    "aliases": [
+      "山茶花",
+      "Camellia"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ivy",
+    "nameZh": "常春藤",
+    "nameEn": "Ivy",
+    "aliases": [
+      "常春藤",
+      "Ivy"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cedarwood",
+    "nameZh": "雪松",
+    "nameEn": "Cedarwood",
+    "aliases": [
+      "雪松",
+      "Cedarwood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "yuzu",
+    "nameZh": "柚子",
+    "nameEn": "Yuzu",
+    "aliases": [
+      "柚子",
+      "Yuzu"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sweet-orange",
+    "nameZh": "甜橙",
+    "nameEn": "Sweet orange",
+    "aliases": [
+      "甜橙",
+      "Sweet orange"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "jasmine",
+    "nameZh": "茉莉",
+    "nameEn": "Jasmine",
+    "aliases": [
+      "茉莉",
+      "Jasmine"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sage",
+    "nameZh": "鼠尾草",
+    "nameEn": "Sage",
+    "aliases": [
+      "鼠尾草",
+      "Sage"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "yuzu-tea",
+    "nameZh": "柚子茶",
+    "nameEn": "Yuzu tea",
+    "aliases": [
+      "柚子茶",
+      "Yuzu tea"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-accord",
+    "nameZh": "青香",
+    "nameEn": "Green accord",
+    "aliases": [
+      "青香",
+      "Green accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "watery-accord",
+    "nameZh": "水润",
+    "nameEn": "Watery accord",
+    "aliases": [
+      "水润",
+      "Watery accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lily-of-the-valley",
+    "nameZh": "铃兰",
+    "nameEn": "Lily of the valley",
+    "aliases": [
+      "铃兰",
+      "Lily of the valley"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "tuberose",
+    "nameZh": "晚香玉",
+    "nameEn": "Tuberose",
+    "aliases": [
+      "晚香玉",
+      "Tuberose"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "gardenia",
+    "nameZh": "栀子花",
+    "nameEn": "Gardenia",
+    "aliases": [
+      "栀子花",
+      "Gardenia"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "hibiscus",
+    "nameZh": "木槿花",
+    "nameEn": "Hibiscus",
+    "aliases": [
+      "木槿花",
+      "Hibiscus"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "white-musk",
+    "nameZh": "白麝香",
+    "nameEn": "White musk",
+    "aliases": [
+      "白麝香",
+      "White musk",
+      "White Musk"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "oakmoss",
+    "nameZh": "橡苔",
+    "nameEn": "Oakmoss",
+    "aliases": [
+      "橡苔",
+      "Oakmoss",
+      "橡木苔"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fig-leaf",
+    "nameZh": "无花果叶",
+    "nameEn": "Fig leaf",
+    "aliases": [
+      "无花果叶",
+      "Fig leaf",
+      "Fig Leaf"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fig",
+    "nameZh": "无花果",
+    "nameEn": "Fig",
+    "aliases": [
+      "无花果",
+      "Fig"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "clove-leaf",
+    "nameZh": "丁香叶",
+    "nameEn": "Clove leaf",
+    "aliases": [
+      "丁香叶",
+      "Clove leaf"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "coconut-milk",
+    "nameZh": "椰奶",
+    "nameEn": "Coconut milk",
+    "aliases": [
+      "椰奶",
+      "Coconut milk"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sea-water",
+    "nameZh": "海水",
+    "nameEn": "Sea water",
+    "aliases": [
+      "海水",
+      "Sea water"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "tonka-bean",
+    "nameZh": "零陵香豆",
+    "nameEn": "Tonka bean",
+    "aliases": [
+      "零陵香豆",
+      "Tonka bean",
+      "Tonka Bean"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "neroli",
+    "nameZh": "橙花油",
+    "nameEn": "Neroli",
+    "aliases": [
+      "橙花油",
+      "Neroli"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bitter-orange",
+    "nameZh": "苦橙",
+    "nameEn": "Bitter orange",
+    "aliases": [
+      "苦橙",
+      "Bitter orange",
+      "Bitter Orange",
+      "Natural Bitter Orange"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "seaweed",
+    "nameZh": "海藻",
+    "nameEn": "Seaweed",
+    "aliases": [
+      "海藻",
+      "Seaweed"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "rosemary",
+    "nameZh": "迷迭香",
+    "nameEn": "Rosemary",
+    "aliases": [
+      "迷迭香",
+      "Rosemary"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "white-tea",
+    "nameZh": "白茶",
+    "nameEn": "White tea",
+    "aliases": [
+      "白茶",
+      "White tea"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "aromatic-accord",
+    "nameZh": "芳香",
+    "nameEn": "Aromatic accord",
+    "aliases": [
+      "芳香",
+      "Aromatic accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "mandarin",
+    "nameZh": "橘子",
+    "nameEn": "Mandarin",
+    "aliases": [
+      "橘子",
+      "Mandarin"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pine-needles",
+    "nameZh": "松针",
+    "nameEn": "Pine needles",
+    "aliases": [
+      "松针",
+      "Pine needles"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "galbanum",
+    "nameZh": "白松香",
+    "nameEn": "Galbanum",
+    "aliases": [
+      "白松香",
+      "Galbanum"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lemon-verbena",
+    "nameZh": "柠檬马鞭草",
+    "nameEn": "Lemon verbena",
+    "aliases": [
+      "柠檬马鞭草",
+      "Lemon verbena"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "clementine",
+    "nameZh": "克里曼丁红橘",
+    "nameEn": "Clementine",
+    "aliases": [
+      "克里曼丁红橘",
+      "Clementine"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "petitgrain",
+    "nameZh": "苦橙叶",
+    "nameEn": "Petitgrain",
+    "aliases": [
+      "苦橙叶",
+      "Petitgrain"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "labdanum",
+    "nameZh": "劳丹脂",
+    "nameEn": "Labdanum",
+    "aliases": [
+      "劳丹脂",
+      "Labdanum"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-hazelnut",
+    "nameZh": "绿榛果",
+    "nameEn": "Green hazelnut",
+    "aliases": [
+      "绿榛果",
+      "Green hazelnut",
+      "Green Hazelnut"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "roasted-oak",
+    "nameZh": "烘烤橡木",
+    "nameEn": "Roasted oak",
+    "aliases": [
+      "烘烤橡木",
+      "Roasted oak",
+      "Roasted Oak"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-mango",
+    "nameZh": "青芒果",
+    "nameEn": "Green mango",
+    "aliases": [
+      "青芒果",
+      "Green mango"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lotus",
+    "nameZh": "莲花",
+    "nameEn": "Lotus",
+    "aliases": [
+      "莲花",
+      "Lotus",
+      "Lotus Flower"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sycamore",
+    "nameZh": "槭木",
+    "nameEn": "Sycamore",
+    "aliases": [
+      "槭木",
+      "Sycamore"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "jasmine-sambac",
+    "nameZh": "阿拉伯茉莉",
+    "nameEn": "Jasmine sambac",
+    "aliases": [
+      "阿拉伯茉莉",
+      "Jasmine sambac",
+      "Jasmine Sambac"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "kumquat",
+    "nameZh": "金桔",
+    "nameEn": "Kumquat",
+    "aliases": [
+      "金桔",
+      "Kumquat"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "golden-grasses",
+    "nameZh": "芒草",
+    "nameEn": "Golden grasses",
+    "aliases": [
+      "芒草",
+      "Golden grasses"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "olive-wood",
+    "nameZh": "橄榄木",
+    "nameEn": "Olive wood",
+    "aliases": [
+      "橄榄木",
+      "Olive wood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pistachio",
+    "nameZh": "开心果",
+    "nameEn": "Pistachio",
+    "aliases": [
+      "开心果",
+      "Pistachio"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambroxyde",
+    "nameZh": "降龙涎香醚",
+    "nameEn": "Ambroxyde",
+    "aliases": [
+      "Ambroxyde",
+      "降龙涎香醚"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "elemi",
+    "nameZh": "榄香脂",
+    "nameEn": "Elemi",
+    "aliases": [
+      "Elemi",
+      "榄香脂"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "peony",
+    "nameZh": "牡丹",
+    "nameEn": "Peony",
+    "aliases": [
+      "Peony",
+      "牡丹"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cypriol",
+    "nameZh": "莎草",
+    "nameEn": "Cypriol",
+    "aliases": [
+      "Cypriol",
+      "莎草"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "osmanthus",
+    "nameZh": "桂花",
+    "nameEn": "Osmanthus",
+    "aliases": [
+      "Osmanthus",
+      "桂花"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bitter-almond",
+    "nameZh": "苦杏仁",
+    "nameEn": "Bitter Almond",
+    "aliases": [
+      "Bitter Almond",
+      "苦杏仁"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cherry-accord",
+    "nameZh": "樱桃",
+    "nameEn": "Cherry accord",
+    "aliases": [
+      "Cherry",
+      "樱桃"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "peru-balsam",
+    "nameZh": "秘鲁香脂",
+    "nameEn": "Peru Balsam",
+    "aliases": [
+      "Peru Balsam",
+      "秘鲁香脂"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "tobacco",
+    "nameZh": "烟草",
+    "nameEn": "Tobacco",
+    "aliases": [
+      "Tobacco",
+      "烟草"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ginger",
+    "nameZh": "生姜",
+    "nameEn": "Ginger",
+    "aliases": [
+      "Ginger",
+      "生姜"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cocoa",
+    "nameZh": "可可",
+    "nameEn": "Cocoa",
+    "aliases": [
+      "Cocoa",
+      "可可"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "orchid-accord",
+    "nameZh": "兰花",
+    "nameEn": "Orchid accord",
+    "aliases": [
+      "Orchid",
+      "兰花"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "truffle",
+    "nameZh": "松露",
+    "nameEn": "Truffle",
+    "aliases": [
+      "Truffle",
+      "松露"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ylang-ylang",
+    "nameZh": "依兰",
+    "nameEn": "Ylang Ylang",
+    "aliases": [
+      "Ylang Ylang",
+      "依兰"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "saffron",
+    "nameZh": "藏红花",
+    "nameEn": "Saffron",
+    "aliases": [
+      "Saffron",
+      "藏红花"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "kulfi",
+    "nameZh": "印度冰淇淋香调",
+    "nameEn": "Kulfi",
+    "aliases": [
+      "Kulfi",
+      "印度冰淇淋香调"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "vanilla",
+    "nameZh": "香草",
+    "nameEn": "Vanilla",
+    "aliases": [
+      "Vanilla",
+      "香草"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cardamom",
+    "nameZh": "小豆蔻",
+    "nameEn": "Cardamom",
+    "aliases": [
+      "Cardamom",
+      "小豆蔻"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "leather",
+    "nameZh": "皮革",
+    "nameEn": "Leather",
+    "aliases": [
+      "Leather",
+      "皮革"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "oakwood",
+    "nameZh": "橡木",
+    "nameEn": "Oakwood",
+    "aliases": [
+      "Oakwood",
+      "橡木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "muscovado",
+    "nameZh": "黑糖",
+    "nameEn": "Muscovado",
+    "aliases": [
+      "Muscovado",
+      "黑糖"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "plum",
+    "nameZh": "李子",
+    "nameEn": "Plum",
+    "aliases": [
+      "Plum",
+      "李子"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "rum",
+    "nameZh": "朗姆酒",
+    "nameEn": "Rum",
+    "aliases": [
+      "Rum",
+      "朗姆酒"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "orris",
+    "nameZh": "鸢尾根",
+    "nameEn": "Orris",
+    "aliases": [
+      "Orris",
+      "鸢尾根"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cashmeran",
+    "nameZh": "开司米酮",
+    "nameEn": "Cashmeran",
+    "aliases": [
+      "Cashmeran",
+      "开司米酮"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "clary-sage",
+    "nameZh": "快乐鼠尾草",
+    "nameEn": "Clary Sage",
+    "aliases": [
+      "Clary Sage",
+      "快乐鼠尾草"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "blood-orange",
+    "nameZh": "血橙",
+    "nameEn": "Blood Orange",
+    "aliases": [
+      "Blood Orange",
+      "血橙"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "orange-flower",
+    "nameZh": "橙花",
+    "nameEn": "Orange Flower",
+    "aliases": [
+      "Orange Flower",
+      "橙花"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lavender",
+    "nameZh": "薰衣草",
+    "nameEn": "Lavender",
+    "aliases": [
+      "Lavender",
+      "薰衣草"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "coco-de-mer-accord",
+    "nameZh": "海椰子香调",
+    "nameEn": "Coco de mer accord",
+    "aliases": [
+      "Coco de Mer",
+      "海椰子香调"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "iris",
+    "nameZh": "鸢尾",
+    "nameEn": "Iris",
+    "aliases": [
+      "Iris",
+      "鸢尾"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "davana",
+    "nameZh": "印蒿",
+    "nameEn": "Davana",
+    "aliases": [
+      "Davana",
+      "印蒿"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cinnamon",
+    "nameZh": "肉桂",
+    "nameEn": "Cinnamon",
+    "aliases": [
+      "Cinnamon",
+      "肉桂"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "carrot-seed",
+    "nameZh": "胡萝卜籽",
+    "nameEn": "Carrot Seed",
+    "aliases": [
+      "Carrot Seed",
+      "胡萝卜籽"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cistus",
+    "nameZh": "岩蔷薇",
+    "nameEn": "Cistus",
+    "aliases": [
+      "Cistus",
+      "岩蔷薇"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambrettolide",
+    "nameZh": "黄葵内酯",
+    "nameEn": "Ambrettolide",
+    "aliases": [
+      "Ambrettolide",
+      "黄葵内酯"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "nutmeg",
+    "nameZh": "肉豆蔻",
+    "nameEn": "Nutmeg",
+    "aliases": [
+      "Nutmeg",
+      "肉豆蔻"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pimento",
+    "nameZh": "多香果",
+    "nameEn": "Pimento",
+    "aliases": [
+      "Pimento",
+      "多香果"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "turmeric",
+    "nameZh": "姜黄",
+    "nameEn": "Turmeric",
+    "aliases": [
+      "Turmeric",
+      "姜黄"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "akigalawood",
+    "nameZh": "阿基加拉木",
+    "nameEn": "Akigalawood",
+    "aliases": [
+      "Akigalawood",
+      "阿基加拉木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "olibanum",
+    "nameZh": "乳香",
+    "nameEn": "Olibanum",
+    "aliases": [
+      "Olibanum",
+      "乳香"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "tolu-balsam",
+    "nameZh": "吐鲁香脂",
+    "nameEn": "Tolu Balsam",
+    "aliases": [
+      "Tolu Balsam",
+      "吐鲁香脂"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "coffee",
+    "nameZh": "咖啡",
+    "nameEn": "Coffee",
+    "aliases": [
+      "Coffee",
+      "咖啡"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "mahogany",
+    "nameZh": "桃花心木",
+    "nameEn": "Mahogany",
+    "aliases": [
+      "Mahogany",
+      "桃花心木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "barley",
+    "nameZh": "大麦",
+    "nameEn": "Barley",
+    "aliases": [
+      "Barley",
+      "大麦"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "palo-santo",
+    "nameZh": "圣木",
+    "nameEn": "Palo Santo",
+    "aliases": [
+      "Palo Santo",
+      "圣木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ebony",
+    "nameZh": "黑檀木",
+    "nameEn": "Ebony",
+    "aliases": [
+      "Ebony",
+      "黑檀木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "absinthe",
+    "nameZh": "苦艾",
+    "nameEn": "Absinthe",
+    "aliases": [
+      "Absinthe",
+      "苦艾"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cypress",
+    "nameZh": "柏树",
+    "nameEn": "Cypress",
+    "aliases": [
+      "Cypress",
+      "柏树"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "driftwood",
+    "nameZh": "浮木",
+    "nameEn": "Driftwood",
+    "aliases": [
+      "Driftwood",
+      "浮木"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "thyme",
+    "nameZh": "百里香",
+    "nameEn": "Thyme",
+    "aliases": [
+      "Thyme",
+      "百里香"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "mate",
+    "nameZh": "马黛茶",
+    "nameEn": "Mate",
+    "aliases": [
+      "Mate",
+      "马黛茶",
+      "Maté Leaf"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "suede",
+    "nameZh": "绒面革",
+    "nameEn": "Suede",
+    "aliases": [
+      "Suede",
+      "绒面革"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "date",
+    "nameZh": "椰枣",
+    "nameEn": "Date",
+    "aliases": [
+      "Date",
+      "椰枣"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "white-pepper",
+    "nameZh": "白胡椒",
+    "nameEn": "White Pepper",
+    "aliases": [
+      "White Pepper",
+      "白胡椒"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "crocus",
+    "nameZh": "番红花",
+    "nameEn": "Crocus",
+    "aliases": [
+      "Crocus",
+      "番红花"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "thuya",
+    "nameZh": "崖柏",
+    "nameEn": "Thuya",
+    "aliases": [
+      "Thuya",
+      "崖柏"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "basil",
+    "nameZh": "罗勒",
+    "nameEn": "Basil",
+    "aliases": [
+      "Basil",
+      "罗勒"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "spearmint",
+    "nameZh": "留兰香",
+    "nameEn": "Spearmint",
+    "aliases": [
+      "Spearmint",
+      "留兰香"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "shiso",
+    "nameZh": "紫苏",
+    "nameEn": "Shiso",
+    "aliases": [
+      "Shisho",
+      "紫苏"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "raspberry",
+    "nameZh": "覆盆子",
+    "nameEn": "Raspberry",
+    "aliases": [
+      "Raspberry",
+      "覆盆子"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fir-balsam",
+    "nameZh": "冷杉香脂",
+    "nameEn": "Fir Balsam",
+    "aliases": [
+      "Fir Balsam",
+      "冷杉香脂"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "lime",
+    "nameZh": "青柠",
+    "nameEn": "Lime",
+    "aliases": [
+      "Lime",
+      "青柠"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "buchu",
+    "nameZh": "布枯",
+    "nameEn": "Buchu",
+    "aliases": [
+      "Buchu",
+      "布枯"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "coumarin",
+    "nameZh": "香豆素",
+    "nameEn": "Coumarin",
+    "aliases": [
+      "Coumarin",
+      "香豆素"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "omumbiri-myrr",
+    "nameZh": "奥穆姆比里没药",
+    "nameEn": "Omumbiri Myrr",
+    "aliases": [
+      "Omumbiri Myrr"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "williams-pear",
+    "nameZh": "威廉梨",
+    "nameEn": "Williams Pear",
+    "aliases": [
+      "Williams Pear"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "freesia",
+    "nameZh": "小苍兰",
+    "nameEn": "Freesia",
+    "aliases": [
+      "Freesia"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "grapevine",
+    "nameZh": "葡萄藤",
+    "nameEn": "Grapevine",
+    "aliases": [
+      "Grapevine"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambrette-seeds",
+    "nameZh": "黄葵籽",
+    "nameEn": "Ambrette Seeds",
+    "aliases": [
+      "Ambrette Seeds"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sea-salt",
+    "nameZh": "海盐",
+    "nameEn": "Sea Salt",
+    "aliases": [
+      "Sea Salt"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "amberwood",
+    "nameZh": "琥珀木",
+    "nameEn": "Amberwood",
+    "aliases": [
+      "Amberwood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "red-apple",
+    "nameZh": "红苹果",
+    "nameEn": "Red Apple",
+    "aliases": [
+      "Red Apple"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "red-hibiscus",
+    "nameZh": "红木槿",
+    "nameEn": "Red Hibiscus",
+    "aliases": [
+      "Red Hibiscus"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "pomegranate",
+    "nameZh": "石榴",
+    "nameEn": "Pomegranate",
+    "aliases": [
+      "Pomegranate"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "casablanca-lily",
+    "nameZh": "卡萨布兰卡百合",
+    "nameEn": "Casablanca Lily",
+    "aliases": [
+      "Casablanca Lily"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bluebell",
+    "nameZh": "风铃草",
+    "nameEn": "Bluebell",
+    "aliases": [
+      "Bluebell"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "persimmon",
+    "nameZh": "柿子",
+    "nameEn": "Persimmon",
+    "aliases": [
+      "Persimmon"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "acacia-honey",
+    "nameZh": "金合欢蜂蜜",
+    "nameEn": "Acacia Honey",
+    "aliases": [
+      "Acacia Honey"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "peach",
+    "nameZh": "桃子",
+    "nameEn": "Peach",
+    "aliases": [
+      "Peach"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "black-cardamom",
+    "nameZh": "黑豆蔻",
+    "nameEn": "Black Cardamom",
+    "aliases": [
+      "Black Cardamom"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "black-orchid",
+    "nameZh": "黑兰花",
+    "nameEn": "Black Orchid",
+    "aliases": [
+      "Black Orchid"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "kyara-incense",
+    "nameZh": "伽罗熏香",
+    "nameEn": "Kyara Incense",
+    "aliases": [
+      "Kyara Incense"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "blackberry",
+    "nameZh": "黑莓",
+    "nameEn": "Blackberry",
+    "aliases": [
+      "Blackberry"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bay-leaves",
+    "nameZh": "月桂叶",
+    "nameEn": "Bay Leaves",
+    "aliases": [
+      "Bay Leaves"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "english-lavender",
+    "nameZh": "英国薰衣草",
+    "nameEn": "English Lavender",
+    "aliases": [
+      "English Lavender"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "silver-birch",
+    "nameZh": "银桦",
+    "nameEn": "Silver Birch",
+    "aliases": [
+      "Silver Birch"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "aromatic-clean-accord",
+    "nameZh": "清新芳香香调",
+    "nameEn": "Aromatic Clean Accord",
+    "aliases": [
+      "Aromatic Clean Accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "hinoki-wood",
+    "nameZh": "桧木",
+    "nameEn": "Hinoki Wood",
+    "aliases": [
+      "Hinoki Wood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "mimosa",
+    "nameZh": "含羞草",
+    "nameEn": "Mimosa",
+    "aliases": [
+      "Mimosa"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "marigold",
+    "nameZh": "金盏花",
+    "nameEn": "Marigold",
+    "aliases": [
+      "Marigold"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "orange-peel-accord",
+    "nameZh": "橙皮香调",
+    "nameEn": "Orange Peel Accord",
+    "aliases": [
+      "Orange Peel Accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sweet-pea",
+    "nameZh": "甜豌豆花",
+    "nameEn": "Sweet Pea",
+    "aliases": [
+      "Sweet Pea"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "clementine-flower",
+    "nameZh": "克里曼丁橘花",
+    "nameEn": "Clementine Flower",
+    "aliases": [
+      "Clementine Flower"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "white-lilac",
+    "nameZh": "白丁香",
+    "nameEn": "White Lilac",
+    "aliases": [
+      "White Lilac"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "orriswood",
+    "nameZh": "鸢尾木香",
+    "nameEn": "Orriswood",
+    "aliases": [
+      "Orriswood"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "red-roses-accord",
+    "nameZh": "红玫瑰香调",
+    "nameEn": "Red Roses Accord",
+    "aliases": [
+      "Red Roses Accord"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "honeycomb",
+    "nameZh": "蜂巢",
+    "nameEn": "Honeycomb",
+    "aliases": [
+      "Honeycomb"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "french-lavender",
+    "nameZh": "法国薰衣草",
+    "nameEn": "French Lavender",
+    "aliases": [
+      "French Lavender"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "moonflower",
+    "nameZh": "月光花",
+    "nameEn": "Moonflower",
+    "aliases": [
+      "Moonflower"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "english-camomile",
+    "nameZh": "英国洋甘菊",
+    "nameEn": "English Camomile",
+    "aliases": [
+      "English Camomile"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cucumber",
+    "nameZh": "黄瓜",
+    "nameEn": "Cucumber",
+    "aliases": [
+      "Cucumber"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "beeswax",
+    "nameZh": "蜂蜡",
+    "nameEn": "Beeswax",
+    "aliases": [
+      "Beeswax"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "star-anise",
+    "nameZh": "八角",
+    "nameEn": "Star Anise",
+    "aliases": [
+      "Star Anise"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "purple-vanilla-orchid",
+    "nameZh": "紫色香草兰",
+    "nameEn": "Purple Vanilla Orchid",
+    "aliases": [
+      "Purple Vanilla Orchid"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "vanilla-bourbon",
+    "nameZh": "波旁香草",
+    "nameEn": "Vanilla Bourbon",
+    "aliases": [
+      "Vanilla Bourbon"
+    ],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "heirloom-jasmine",
+    "nameZh": "传承茉莉",
+    "nameEn": "Heirloom Jasmine",
+    "aliases": [
+      "Heirloom Jasmine"
+    ],
+    "category": "品牌公开香调"
+  }
+]

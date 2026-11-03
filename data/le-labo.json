@@ -1,0 +1,534 @@
+[
+  {
+    "id": "le-labo-santal-33",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "SANTAL 33",
+    "aliases": [],
+    "series": "SANTAL 33",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-another-13",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "ANOTHER 13",
+    "aliases": [],
+    "series": "ANOTHER 13",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "ambroxyde",
+      "jasmine",
+      "moss"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "le-labo-another-13-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/another-13_134",
+        "verifiedAt": "2026-11-03"
+      },
+      {
+        "id": "le-labo-another-13-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/another-13_134",
+        "verifiedAt": "2026-11-03"
+      },
+      {
+        "id": "le-labo-another-13-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/another-13_134",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/another-13_134",
+        "type": "official",
+        "verifiedAt": "2026-11-03",
+        "label": "日本官网：浓度、香调与容量"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-rose-31",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "ROSE 31",
+    "aliases": [],
+    "series": "ROSE 31",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-the-noir-29",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "THÉ NOIR 29",
+    "aliases": [],
+    "series": "THÉ NOIR 29",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-the-matcha-26",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "THÉ MATCHA 26",
+    "aliases": [],
+    "series": "THÉ MATCHA 26",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-bergamote-22",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "BERGAMOTE 22",
+    "aliases": [],
+    "series": "BERGAMOTE 22",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-eucalyptus-20",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "EUCALYPTUS 20",
+    "aliases": [],
+    "series": "EUCALYPTUS 20",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-lavande-31",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "LAVANDE 31",
+    "aliases": [],
+    "series": "LAVANDE 31",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-baie-19",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "BAIE 19",
+    "aliases": [],
+    "series": "BAIE 19",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-violette-30",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "VIOLETTE 30",
+    "aliases": [],
+    "series": "VIOLETTE 30",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-lys-41",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "LYS 41",
+    "aliases": [],
+    "series": "LYS 41",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-fleur-d-oranger-27",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "FLEUR D'ORANGER 27",
+    "aliases": [],
+    "series": "FLEUR D'ORANGER 27",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-jasmin-17",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "JASMIN 17",
+    "aliases": [],
+    "series": "JASMIN 17",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-tonka-25",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "TONKA 25",
+    "aliases": [],
+    "series": "TONKA 25",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-neroli-36",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "NEROLI 36",
+    "aliases": [],
+    "series": "NEROLI 36",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-patchouli-24",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "PATCHOULI 24",
+    "aliases": [],
+    "series": "PATCHOULI 24",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-vetiver-46",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "VETIVER 46",
+    "aliases": [],
+    "series": "VETIVER 46",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-ambrette-9",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "AMBRETTE 9",
+    "aliases": [],
+    "series": "AMBRETTE 9",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-ylang-49",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "YLANG 49",
+    "aliases": [],
+    "series": "YLANG 49",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "le-labo-labdanum-18",
+    "brandId": "le-labo",
+    "nameZh": null,
+    "nameEn": "LABDANUM 18",
+    "aliases": [],
+    "series": "LABDANUM 18",
+    "concentration": null,
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.lelabofragrances.com.au/classic-collection.html",
+        "type": "official-catalog",
+        "verifiedAt": "2026-11-03",
+        "label": "官方目录：名称与版本核验"
+      }
+    ],
+    "description": null
+  }
+]

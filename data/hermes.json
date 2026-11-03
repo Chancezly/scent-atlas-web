@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "hermes-un-jardin-sur-le-nil-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": "爱马仕尼罗河花园香水",
+    "nameEn": "Un Jardin sur le Nil Eau de toilette",
+    "aliases": [],
+    "series": "Parfums-Jardins",
+    "concentration": "Eau de Toilette",
+    "family": "清新-细腻",
+    "year": 2005,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "green-mango",
+      "lotus",
+      "sycamore"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "hermes-un-jardin-sur-le-nil-eau-de-toilette-30ml",
+        "ml": 30,
+        "priceCnyFen": 75000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园香水-V26993/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-un-jardin-sur-le-nil-eau-de-toilette-50ml",
+        "ml": 50,
+        "priceCnyFen": 103000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园淡香水-V20397/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园香水-V26993/",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": "官网上段主要材质写“槭木”，下段历史文案写“梧桐木”；此处采用上段当前主要材质列表，不强行合并两者。"
+  },
+  {
+    "id": "hermes-le-jardin-de-monsieur-li-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": "爱马仕李先生花园淡香水",
+    "nameEn": "Le Jardin de Monsieur Li Eau de toilette",
+    "aliases": [],
+    "series": "Parfums-Jardins",
+    "concentration": "Eau de Toilette",
+    "family": "清新-细腻",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "jasmine-sambac",
+      "kumquat",
+      "bergamot"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "hermes-le-jardin-de-monsieur-li-eau-de-toilette-30ml",
+        "ml": 30,
+        "priceCnyFen": 75000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕李先生花园淡香水-V32122/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕李先生花园淡香水-V32122/",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-un-jardin-a-cythere-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": "爱马仕基西拉岛花园淡香水",
+    "nameEn": "Un Jardin à Cythère Eau de toilette",
+    "aliases": [],
+    "series": "Parfums-Jardins",
+    "concentration": "Eau de Toilette",
+    "family": "温馨-感性",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "golden-grasses",
+      "olive-wood",
+      "pistachio"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "hermes-un-jardin-a-cythere-eau-de-toilette-30ml",
+        "ml": 30,
+        "priceCnyFen": 75000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109287V0/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-un-jardin-a-cythere-eau-de-toilette-50ml",
+        "ml": 50,
+        "priceCnyFen": 103000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109288V0/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109287V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-des-merveilles-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": "爱马仕橘彩星光淡香水",
+    "nameEn": "Eau des Merveilles Eau de toilette",
+    "aliases": [],
+    "series": "Eau des Merveilles",
+    "concentration": "Eau de Toilette",
+    "family": "琥珀木香型",
+    "year": 2004,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "elemi",
+      "benzoin",
+      "bitter-orange"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "hermes-eau-des-merveilles-eau-de-toilette-30ml",
+        "ml": 30,
+        "priceCnyFen": 80000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107058V0/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-eau-des-merveilles-eau-de-toilette-50ml",
+        "ml": 50,
+        "priceCnyFen": 111000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107290V0/",
+        "verifiedAt": "2026-11-03",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107058V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": "官网香调段使用“苦橙”，主要材质段使用“酸橙”；此处采用香调段，不推断为青柠。"
+  },
+  {
+    "id": "hermes-oud-esma-essence-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Oud Esma Essence de parfum",
+    "aliases": [],
+    "series": "Oud Esma Essence de",
+    "concentration": "Essence de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-musc-pallida-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Musc Pallida Eau de parfum",
+    "aliases": [],
+    "series": "Musc Pallida",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-ginseng-biloba-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Ginseng biloba Eau de parfum",
+    "aliases": [],
+    "series": "Ginseng biloba",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-ambre-narguile-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Ambre Narguile Eau de toilette",
+    "aliases": [],
+    "series": "Ambre Narguile",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-oud-alezan-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Oud Alezan Eau de parfum",
+    "aliases": [],
+    "series": "Oud Alezan",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-cardamusc-essence-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Cardamusc Essence de parfum",
+    "aliases": [],
+    "series": "Cardamusc Essence de",
+    "concentration": "Essence de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-musc-pallida-essence-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Musc Pallida Essence de parfum",
+    "aliases": [],
+    "series": "Musc Pallida Essence de",
+    "concentration": "Essence de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-vetiver-tonka-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Vetiver Tonka Eau de toilette",
+    "aliases": [],
+    "series": "Vetiver Tonka",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-santal-massoia-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Santal Massoia Eau de toilette",
+    "aliases": [],
+    "series": "Santal Massoia",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-cedre-sambac-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Cedre Sambac Eau de toilette",
+    "aliases": [],
+    "series": "Cedre Sambac",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-iris-ukiyoe-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Iris Ukiyoe Eau de toilette",
+    "aliases": [],
+    "series": "Iris Ukiyoe",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-poivre-samarcande-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Poivre Samarcande Eau de toilette",
+    "aliases": [],
+    "series": "Poivre Samarcande",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-myrrhe-eglantine-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Myrrhe Eglantine Eau de toilette",
+    "aliases": [],
+    "series": "Myrrhe Eglantine",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-agar-ebene-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Agar Ebene Eau de toilette",
+    "aliases": [],
+    "series": "Agar Ebene",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-epice-marine-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Epice Marine Eau de toilette",
+    "aliases": [],
+    "series": "Epice Marine",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-cuir-d-ange-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Cuir d'Ange Eau de toilette",
+    "aliases": [],
+    "series": "Cuir d'Ange",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-violette-volynka-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Violette Volynka Eau de toilette",
+    "aliases": [],
+    "series": "Violette Volynka",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-osmanthe-yunnan-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Osmanthe Yunnan Eau de toilette",
+    "aliases": [],
+    "series": "Osmanthe Yunnan",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-rose-ikebana-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Rose Ikebana Eau de toilette",
+    "aliases": [],
+    "series": "Rose Ikebana",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-concentre-d-orange-verte-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Concentre d'orange verte Eau de toilette",
+    "aliases": [],
+    "series": "Concentre d'orange verte",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-d-orange-verte-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau d'orange verte Eau de cologne",
+    "aliases": [],
+    "series": "Eau d'orange verte Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-de-citron-noir-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau de citron noir Eau de cologne",
+    "aliases": [],
+    "series": "Eau de citron noir Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-de-rhubarbe-ecarlate-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau de rhubarbe ecarlate Eau de cologne",
+    "aliases": [],
+    "series": "Eau de rhubarbe ecarlate Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-de-pamplemousse-rose-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau de pamplemousse rose Eau de cologne",
+    "aliases": [],
+    "series": "Eau de pamplemousse rose Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-concentre-de-pamplemousse-rose-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Concentre de pamplemousse rose Eau de toilette",
+    "aliases": [],
+    "series": "Concentre de pamplemousse rose",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-de-neroli-dore-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau de neroli dore Eau de cologne",
+    "aliases": [],
+    "series": "Eau de neroli dore Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-de-mandarine-ambree-eau-de-cologne",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau de mandarine ambree Eau de cologne",
+    "aliases": [],
+    "series": "Eau de mandarine ambree Eau de",
+    "concentration": "Eau de Cologne",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-rouge-hermes-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Rouge Hermès Eau de toilette",
+    "aliases": [],
+    "series": "Rouge Hermès",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-rocabar-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Rocabar Eau de toilette",
+    "aliases": [],
+    "series": "Rocabar",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-bel-ami-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Bel Ami Eau de toilette",
+    "aliases": [],
+    "series": "Bel Ami",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-d-hermes-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau d'Hermès Eau de toilette",
+    "aliases": [],
+    "series": "Eau d'Hermès",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-bel-ami-vetiver-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Bel Ami Vetiver Eau de toilette",
+    "aliases": [],
+    "series": "Bel Ami Vetiver",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-caleche-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Caleche Eau de toilette",
+    "aliases": [],
+    "series": "Caleche",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-equipage-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Equipage Eau de toilette",
+    "aliases": [],
+    "series": "Equipage",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-hiris-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Hiris Eau de toilette",
+    "aliases": [],
+    "series": "Hiris",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-jour-d-hermes-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Jour d'Hermès Eau de parfum",
+    "aliases": [],
+    "series": "Jour d'Hermès",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-jour-d-hermes-absolu-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Jour d'Hermès Absolu Eau de parfum",
+    "aliases": [],
+    "series": "Jour d'Hermès Absolu",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-kelly-caleche-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Kelly Caleche Eau de parfum",
+    "aliases": [],
+    "series": "Kelly Caleche",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-kelly-caleche-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Kelly Caleche Eau de toilette",
+    "aliases": [],
+    "series": "Kelly Caleche",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-terre-d-hermes-eau-de-parfum-intense",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Terre d'Hermès Eau de parfum intense",
+    "aliases": [],
+    "series": "Terre d'Hermès Eau de parfum intense",
+    "concentration": "Eau de Parfum Intense",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-terre-d-hermes-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Terre d'Hermes Eau de toilette",
+    "aliases": [],
+    "series": "Terre d'Hermes",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-terre-d-hermes-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Terre d'Hermes Parfum",
+    "aliases": [],
+    "series": "Terre d'Hermes",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "url": "data/images/terre-hermes-parfum.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terre_d%E2%80%99Herm%C3%A8s.JPG",
+      "originalUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Terre_d%E2%80%99Herm%C3%A8s.JPG",
+      "creator": "IDiamond",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "原始 JPEG，未修改；页面等比展示。",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-terre-d-hermes-eau-givree-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Terre d'Hermes Eau Givree Eau de parfum",
+    "aliases": [],
+    "series": "Terre d'Hermes Eau Givree",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-terre-d-hermes-eau-intense-vetiver-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Terre d'Hermes Eau Intense Vetiver Eau de parfum",
+    "aliases": [],
+    "series": "Terre d'Hermes Eau Intense Vetiver",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-barenia-pleine-fleur-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Barénia Pleine Fleur Eau de parfum",
+    "aliases": [],
+    "series": "Barénia Pleine Fleur",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-barenia-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Barénia Eau de parfum",
+    "aliases": [],
+    "series": "Barénia",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-barenia-eau-de-parfum-intense",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Barénia Eau de parfum intense",
+    "aliases": [],
+    "series": "Barénia Eau de parfum intense",
+    "concentration": "Eau de Parfum Intense",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-un-jardin-en-mediterranee-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Un Jardin en Mediterranee Eau de toilette",
+    "aliases": [],
+    "series": "Un Jardin en Mediterranee",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-un-jardin-sous-la-mer-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Un Jardin sous la Mer Eau de toilette",
+    "aliases": [],
+    "series": "Un Jardin sous la Mer",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-un-jardin-sur-la-lagune-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Un Jardin sur la Lagune Eau de toilette",
+    "aliases": [],
+    "series": "Un Jardin sur la Lagune",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-un-jardin-sur-le-toit-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Un Jardin sur le Toit Eau de toilette",
+    "aliases": [],
+    "series": "Un Jardin sur le Toit",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-twilly-d-hermes-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Twilly d'Hermes Eau de parfum",
+    "aliases": [],
+    "series": "Twilly d'Hermes",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-tutti-twilly-d-hermes-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Tutti Twilly d'Hermès Eau de parfum",
+    "aliases": [],
+    "series": "Tutti Twilly d'Hermès",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-twilly-d-hermes-eau-ginger-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Twilly d'Hermès Eau Ginger Eau de parfum",
+    "aliases": [],
+    "series": "Twilly d'Hermès Eau Ginger",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-twilly-d-hermes-eau-poivree-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Twilly d'Hermes Eau Poivree Eau de parfum",
+    "aliases": [],
+    "series": "Twilly d'Hermes Eau Poivree",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-h24-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "H24 Eau de parfum",
+    "aliases": [],
+    "series": "H24",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-h24-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "H24 Eau de toilette",
+    "aliases": [],
+    "series": "H24",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-h24-herbes-vives-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "H24 Herbes Vives Eau de parfum",
+    "aliases": [],
+    "series": "H24 Herbes Vives",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-l-ombre-des-merveilles-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "L'Ombre des Merveilles Eau de parfum",
+    "aliases": [],
+    "series": "L'Ombre des Merveilles",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-l-ambre-des-merveilles-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "L'Ambre des Merveilles Eau de parfum",
+    "aliases": [],
+    "series": "L'Ambre des Merveilles",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-eau-des-merveilles-bleue-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Eau des Merveilles Bleue Eau de toilette",
+    "aliases": [],
+    "series": "Eau des Merveilles Bleue",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-elixir-des-merveilles-eau-de-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Elixir des Merveilles Eau de parfum",
+    "aliases": [],
+    "series": "Elixir des Merveilles",
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-voyage-d-hermes-parfum",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Voyage d'Hermès Parfum",
+    "aliases": [],
+    "series": "Voyage d'Hermès",
+    "concentration": "Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "hermes-voyage-d-hermes-eau-de-toilette",
+    "brandId": "hermes",
+    "nameZh": null,
+    "nameEn": "Voyage d'Hermès Eau de toilette",
+    "aliases": [],
+    "series": "Voyage d'Hermès",
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [],
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
+        "type": "official",
+        "verifiedAt": "2026-11-03"
+      }
+    ],
+    "description": null
+  }
+]
