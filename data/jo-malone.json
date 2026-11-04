@@ -6,7 +6,8 @@
     "nameEn": "Myrrh & Tonka Cologne Intense",
     "aliases": [
       "没药与零陵香",
-      "Myrrh & Tonka"
+      "Myrrh & Tonka",
+      "没药与零陵香芳醇"
     ],
     "series": "Myrrh & Tonka",
     "concentration": "Cologne Intense",
@@ -104,9 +105,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_L26K01_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_L26K01_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/english-pear-freesia-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_L26K01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L26K01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -173,6 +174,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -184,7 +191,8 @@
     "nameEn": "Cypress & Grapevine Cologne Intense",
     "aliases": [
       "丝柏与葡萄藤",
-      "Cypress & Grapevine"
+      "Cypress & Grapevine",
+      "丝柏与葡萄藤芳醇"
     ],
     "series": "Cypress & Grapevine",
     "concentration": "Cologne Intense",
@@ -365,24 +373,64 @@
   {
     "id": "jo-malone-tangerine-honey-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "柑橘与蜂蜜香水",
     "nameEn": "Tangerine & Honey Cologne",
-    "aliases": [],
+    "aliases": [
+      "柑橘与蜂蜜",
+      "Tangerine & Honey"
+    ],
     "series": "Tangerine & Honey",
     "concentration": "Cologne",
-    "family": null,
+    "family": "果香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L76B01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L76B01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "tangerine",
+      "honey",
+      "clove"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-tangerine-honey-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/tangerine-honey-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/tangerine-honey-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/146659/tangerine-honey-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -390,24 +438,78 @@
   {
     "id": "jo-malone-sea-salt-bergamot-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "海盐与佛手柑香水",
     "nameEn": "Sea Salt & Bergamot Cologne",
-    "aliases": [],
+    "aliases": [
+      "海盐与佛手柑",
+      "Sea Salt & Bergamot"
+    ],
     "series": "Sea Salt & Bergamot",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新柑橘调、矿物调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L5SA01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L5SA01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "bergamot",
+      "sea-salt",
+      "driftwood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-sea-salt-bergamot-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/sea-salt-bergamot-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-sea-salt-bergamot-cologne-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/sea-salt-bergamot-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-sea-salt-bergamot-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/sea-salt-bergamot-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/sea-salt-bergamot-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/145614/sea-salt-bergamot-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -419,7 +521,8 @@
     "nameEn": "Oud & Bergamot Cologne Intense",
     "aliases": [
       "乌木与佛手柑",
-      "Oud & Bergamot"
+      "Oud & Bergamot",
+      "乌木与佛手柑芳醇"
     ],
     "series": "Oud & Bergamot",
     "concentration": "Cologne Intense",
@@ -504,24 +607,66 @@
   {
     "id": "jo-malone-rose-white-musk-absolu",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "玫瑰与白麝香纯香精萃",
     "nameEn": "Rose & White Musk Absolu",
-    "aliases": [],
+    "aliases": [
+      "玫瑰与白麝香",
+      "Rose & White Musk",
+      "玫瑰与白麝香纯香精萃"
+    ],
     "series": "Rose & White Musk",
     "concentration": "Absolu",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L6NM01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L6NM01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "rose",
+      "oud",
+      "amber",
+      "white-musk"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-rose-white-musk-absolu-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/rose-white-musk-absolu",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/rose-white-musk-absolu",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/58474/rose-white-musk-absolu",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -725,7 +870,8 @@
     "nameEn": "Velvet Rose & Oud Cologne Intense",
     "aliases": [
       "丝绒玫瑰与乌木",
-      "Velvet Rose & Oud"
+      "Velvet Rose & Oud",
+      "丝绒玫瑰与乌木芳醇"
     ],
     "series": "Velvet Rose & Oud",
     "concentration": "Cologne Intense",
@@ -802,10 +948,17 @@
     "aliases": [],
     "series": "Red Hibiscus",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LJKE01_3000x3000_0S.png",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LJKE01_3000x3000_0S.png",
+      "sourceUrl": "https://www.jomalone.co.za/product/red-hibiscus-cologne-intense",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "mandarin",
       "red-hibiscus",
@@ -822,7 +975,22 @@
         "vanilla"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-red-hibiscus-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/red-hibiscus-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-red-hibiscus-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/red-hibiscus-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -835,6 +1003,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/red-hibiscus-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
       }
     ],
     "description": null
@@ -842,24 +1016,65 @@
   {
     "id": "jo-malone-gardenia-oud-absolu",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "栀子花与乌木精粹香水",
     "nameEn": "Gardenia & Oud Absolu",
-    "aliases": [],
+    "aliases": [
+      "栀子花与乌木",
+      "Gardenia & Oud",
+      "栀子花与乌木精粹"
+    ],
     "series": "Gardenia & Oud",
     "concentration": "Absolu",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L6NP01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L6NP01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "gardenia",
+      "oud",
+      "amber"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-gardenia-oud-absolu-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/gardenia-oud-absolu",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/gardenia-oud-absolu",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/71841/gardenia-oud-absolu",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -867,15 +1082,26 @@
   {
     "id": "jo-malone-amber-labdanum-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "琥珀与岩蔷薇芳醇香水",
     "nameEn": "Amber Labdanum Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "琥珀与岩蔷薇",
+      "Amber Labdanum",
+      "琥珀与岩蔷薇芳醇"
+    ],
     "series": "Amber Labdanum",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "温暖木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L2CB01_3000x3000_0S.png",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L2CB01_3000x3000_0S.png",
+      "sourceUrl": "https://www.jomalone.co.za/product/amber-labdanum-cologne-intense",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "bitter-orange",
       "labdanum",
@@ -892,7 +1118,22 @@
         "amber"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-amber-labdanum-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/amber-labdanum-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-amber-labdanum-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/amber-labdanum-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -905,6 +1146,18 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/amber-labdanum-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/138087/amber-labdanum-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
       }
     ],
     "description": null
@@ -1006,19 +1259,52 @@
     "aliases": [],
     "series": "Violet & Amber",
     "concentration": "Absolu",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L6NN01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L6NN01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "violet",
+      "violet-leaf",
+      "oud",
+      "white-musk",
+      "amber"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-violet-amber-absolu-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/violet-amber-absolu",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/violet-amber-absolu",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1128,9 +1414,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_L0Y401_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_L0Y401_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/nectarine-blossom-honey-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_L0Y401_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L0Y401_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -1190,6 +1476,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1197,15 +1489,26 @@
   {
     "id": "jo-malone-dark-amber-ginger-lily-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "黑琥珀与野姜花芳醇香水",
     "nameEn": "Dark Amber & Ginger Lily Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "黑琥珀与野姜花",
+      "Dark Amber & Ginger Lily",
+      "黑琥珀与野姜花芳醇"
+    ],
     "series": "Dark Amber & Ginger Lily",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "温暖木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LGWY01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LGWY01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "black-cardamom",
       "black-orchid",
@@ -1222,7 +1525,22 @@
         "kyara-incense"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-dark-amber-ginger-lily-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/dark-amber-ginger-lily-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-dark-amber-ginger-lily-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/dark-amber-ginger-lily-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1235,6 +1553,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/dark-amber-ginger-lily-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/110453/dark-amber-ginger-lily-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1324,15 +1660,25 @@
   {
     "id": "jo-malone-silver-birch-lavender-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "白桦木与薰衣草香水",
     "nameEn": "Silver Birch & Lavender Cologne",
-    "aliases": [],
+    "aliases": [
+      "白桦木与薰衣草",
+      "Silver Birch & Lavender"
+    ],
     "series": "Silver Birch & Lavender",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LGG801_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LGG801_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "grapefruit",
       "english-lavender",
@@ -1349,7 +1695,22 @@
         "silver-birch"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-silver-birch-lavender-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/silver-birch-lavender-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-silver-birch-lavender-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/silver-birch-lavender-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1362,6 +1723,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/silver-birch-lavender-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/90184/silver-birch-lavender-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1369,15 +1748,26 @@
   {
     "id": "jo-malone-hinoki-cedarwood-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "桧木与雪松芳醇香水",
     "nameEn": "Hinoki & Cedarwood Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "桧木与雪松",
+      "Hinoki & Cedarwood",
+      "桧木与雪松芳醇"
+    ],
     "series": "Hinoki & Cedarwood",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "温暖木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LKMH01_3000x3000_0S.png",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LKMH01_3000x3000_0S.png",
+      "sourceUrl": "https://www.jomalone.co.za/product/hinoki-cedarwood-cologne-intense",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "aromatic-clean-accord",
       "hinoki-wood",
@@ -1394,7 +1784,22 @@
         "cedarwood"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-hinoki-cedarwood-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/hinoki-cedarwood-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-hinoki-cedarwood-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/hinoki-cedarwood-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1407,6 +1812,18 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/hinoki-cedarwood-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/127275/hinoki-cedarwood-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
       }
     ],
     "description": null
@@ -1526,7 +1943,8 @@
     "nameEn": "Mimosa & Cardamom Cologne",
     "aliases": [
       "含羞草与小荳蔻",
-      "Mimosa & Cardamom"
+      "Mimosa & Cardamom",
+      "含羞草与小豆蔻"
     ],
     "series": "Mimosa & Cardamom",
     "concentration": "Cologne",
@@ -1604,15 +2022,26 @@
   {
     "id": "jo-malone-jasmine-sambac-marigold-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "茉莉与金盏花芳醇香水",
     "nameEn": "Jasmine Sambac & Marigold Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "茉莉与金盏花",
+      "Jasmine Sambac & Marigold",
+      "茉莉与金盏花芳醇"
+    ],
     "series": "Jasmine Sambac & Marigold",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LGWP01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LGWP01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "marigold",
       "jasmine-sambac",
@@ -1629,7 +2058,22 @@
         "benzoin"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-jasmine-sambac-marigold-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/jasmine-sambac-marigold-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-jasmine-sambac-marigold-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/jasmine-sambac-marigold-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1642,6 +2086,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/jasmine-sambac-marigold-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/110445/jasmine-sambac-marigold-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1649,15 +2111,25 @@
   {
     "id": "jo-malone-orange-marmalade-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "暖橙果酱香水",
     "nameEn": "Orange Marmalade Cologne",
-    "aliases": [],
+    "aliases": [
+      "暖橙果酱",
+      "Orange Marmalade"
+    ],
     "series": "Orange Marmalade",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新柑橘调、清新木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L7HB01_2400x2400_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L7HB01_2400x2400_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "orange-peel-accord",
       "bitter-orange",
@@ -1674,7 +2146,22 @@
         "patchouli"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-orange-marmalade-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/orange-marmalade-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-orange-marmalade-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/orange-marmalade-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1687,6 +2174,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/orange-marmalade-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/126160/orange-marmalade-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1707,9 +2212,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_LA0101_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_LA0101_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/poppy-barley-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_LA0101_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LA0101_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -1752,6 +2257,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1772,9 +2283,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_L7JK01_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_L7JK01_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/honeysuckle-davana-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_L7JK01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L7JK01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -1834,6 +2345,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -1841,15 +2358,25 @@
   {
     "id": "jo-malone-english-pear-sweet-pea-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "英国梨与甜豌豆香水",
     "nameEn": "English Pear & Sweet Pea Cologne",
-    "aliases": [],
+    "aliases": [
+      "英国梨与甜豌豆",
+      "English Pear & Sweet Pea"
+    ],
     "series": "English Pear & Sweet Pea",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清淡花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LKKH01_3000x3000_0S.png",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LKKH01_3000x3000_0S.png",
+      "sourceUrl": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "williams-pear",
       "sweet-pea",
@@ -1866,7 +2393,36 @@
         "white-musk"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-english-pear-sweet-pea-cologne-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-english-pear-sweet-pea-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-english-pear-sweet-pea-cologne-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-english-pear-sweet-pea-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -1879,6 +2435,18 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/english-pear-sweet-pea-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/118129/english-pear-sweet-pea-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
       }
     ],
     "description": null
@@ -1886,24 +2454,83 @@
   {
     "id": "jo-malone-scarlet-poppy-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "绯红罂粟芳醇香水",
     "nameEn": "Scarlet Poppy Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "绯红罂粟",
+      "Scarlet Poppy",
+      "绯红罂粟芳醇"
+    ],
     "series": "Scarlet Poppy",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
-    "pyramid": null,
-    "sizes": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LHG001_3000x3000_0S.png",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LHG001_3000x3000_0S.png",
+      "sourceUrl": "https://www.jomalone.co.za/product/scarlet-poppy-cologne-intense",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "ambrette",
+      "scarlet-poppy",
+      "tonka-bean"
+    ],
+    "pyramid": {
+      "top": [
+        "ambrette"
+      ],
+      "heart": [
+        "scarlet-poppy"
+      ],
+      "base": [
+        "tonka-bean"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "jo-malone-scarlet-poppy-cologne-intense-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/scarlet-poppy-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-scarlet-poppy-cologne-intense-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/scarlet-poppy-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-scarlet-poppy-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/scarlet-poppy-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/scarlet-poppy-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/110775/scarlet-poppy-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
       }
     ],
     "description": null
@@ -1924,9 +2551,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_L0JN01_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_L0JN01_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/orange-blossom-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_L0JN01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L0JN01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -1986,6 +2613,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2073,7 +2706,8 @@
     "nameEn": "Tuberose Angelica Cologne Intense",
     "aliases": [
       "夜来香与白芷",
-      "Tuberose Angelica"
+      "Tuberose Angelica",
+      "夜来香与白芷芳醇"
     ],
     "series": "Tuberose Angelica",
     "concentration": "Cologne Intense",
@@ -2158,9 +2792,9 @@
     "status": null,
     "image": {
       "kind": "official-reference",
-      "url": "https://sdcdn.io/jm/jm_sku_L08801_3000x3000_0S.png",
-      "originalUrl": "https://sdcdn.io/jm/jm_sku_L08801_3000x3000_0S.png",
-      "sourceUrl": "https://www.jomalone.co.za/product/red-roses-cologne",
+      "url": "https://sdcdn.io/jm/jm_sku_L08801_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L08801_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
       "credit": "Jo Malone London",
       "verifiedAt": "2026-11-04"
     },
@@ -2220,6 +2854,12 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2227,24 +2867,66 @@
   {
     "id": "jo-malone-orange-bitters-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "苦橙香水",
     "nameEn": "Orange Bitters Cologne",
-    "aliases": [],
+    "aliases": [
+      "苦橙",
+      "Orange Bitters"
+    ],
     "series": "Orange Bitters",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新柑橘调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L76Z01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L76Z01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "sweet-orange",
+      "mandarin",
+      "bitter-orange",
+      "sandalwood",
+      "amber"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-orange-bitters-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/orange-bitters-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/orange-bitters-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/107854/orange-bitters-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2257,19 +2939,50 @@
     "aliases": [],
     "series": "Taif Rose",
     "concentration": "Cologne Intense",
-    "family": null,
+    "family": "花香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L5QQ01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L5QQ01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "rose",
+      "coffee",
+      "amber"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-taif-rose-cologne-intense-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/taif-rose-cologne-intense",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/taif-rose-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2277,24 +2990,65 @@
   {
     "id": "jo-malone-scarlet-beetroot-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "绯红甜菜根",
     "nameEn": "Scarlet Beetroot Cologne",
-    "aliases": [],
+    "aliases": [
+      "緋紅甜菜根",
+      "Scarlet Beetroot",
+      "绯红甜菜根"
+    ],
     "series": "Scarlet Beetroot",
     "concentration": "Cologne",
-    "family": null,
+    "family": "果香调",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L4BD01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L4BD01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "beetroot",
+      "blackcurrant",
+      "patchouli"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-scarlet-beetroot-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/scarlet-beetroot-cologne",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/scarlet-beetroot-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/british-collection",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾英伦田园系列：中文香型名称"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2307,10 +3061,17 @@
     "aliases": [],
     "series": "Fig & Lotus Flower",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清淡花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LC8A01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LC8A01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "fig-leaf",
       "lotus",
@@ -2327,7 +3088,22 @@
         "vetiver"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-fig-lotus-flower-cologne-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/fig-lotus-flower-cologne?size=30_ml",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "jo-malone-fig-lotus-flower-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/fig-lotus-flower-cologne?size=30_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2340,6 +3116,18 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/fig-lotus-flower-cologne?size=30_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2347,15 +3135,25 @@
   {
     "id": "jo-malone-amber-lavender-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "紫藤与薰衣草香水",
     "nameEn": "Amber & Lavender Cologne",
-    "aliases": [],
+    "aliases": [
+      "紫藤与薰衣草",
+      "Amber & Lavender"
+    ],
     "series": "Amber & Lavender",
     "concentration": "Cologne",
-    "family": null,
+    "family": "温暖木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L00201_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L00201_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "petitgrain",
       "french-lavender",
@@ -2372,7 +3170,15 @@
         "amber"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-amber-lavender-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/amber-lavender-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2385,6 +3191,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/amber-lavender-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/9947/amber-lavender-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2392,15 +3216,25 @@
   {
     "id": "jo-malone-moonlit-camomile-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "洋甘菊香水",
     "nameEn": "Moonlit Camomile Cologne",
-    "aliases": [],
+    "aliases": [
+      "洋甘菊",
+      "Moonlit Camomile"
+    ],
     "series": "Moonlit Camomile",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清淡花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LGK701_3000x3000_0.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LGK701_3000x3000_0.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "moonflower",
       "english-camomile",
@@ -2417,7 +3251,15 @@
         "silver-birch"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-moonlit-camomile-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/moonlit-camomile-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2430,6 +3272,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/moonlit-camomile-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/90097/moonlit-camomile-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2437,17 +3297,40 @@
   {
     "id": "jo-malone-154-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "154香水",
     "nameEn": "154 Cologne",
-    "aliases": [],
+    "aliases": [
+      "154"
+    ],
     "series": "154",
     "concentration": "Cologne",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
-    "pyramid": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L0GC01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L0GC01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "mandarin",
+      "english-lavender",
+      "vetiver"
+    ],
+    "pyramid": {
+      "top": [
+        "mandarin"
+      ],
+      "heart": [
+        "english-lavender"
+      ],
+      "base": [
+        "vetiver"
+      ]
+    },
     "sizes": [],
     "sources": [
       {
@@ -2455,6 +3338,18 @@
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/9945/colognes/154-cologne/154",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2462,17 +3357,41 @@
   {
     "id": "jo-malone-vetiver-golden-vanilla-cologne-intense",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "香根草与黄金梵尼兰芳醇香水",
     "nameEn": "Vetiver & Golden Vanilla Cologne Intense",
-    "aliases": [],
+    "aliases": [
+      "香根草与黄金梵尼兰",
+      "香根草与黄金梵尼兰芳醇"
+    ],
     "series": "Vetiver & Golden Vanilla",
     "concentration": "Cologne Intense",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
-    "pyramid": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_LH3301_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_LH3301_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "cardamom",
+      "bourbon-vetiver",
+      "vanilla-bourbon"
+    ],
+    "pyramid": {
+      "top": [
+        "cardamom"
+      ],
+      "heart": [
+        "bourbon-vetiver"
+      ],
+      "base": [
+        "vanilla-bourbon"
+      ]
+    },
     "sizes": [],
     "sources": [
       {
@@ -2480,6 +3399,18 @@
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/110768/colognes/vetiver-golden-vanilla-cologne-intense",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2487,15 +3418,25 @@
   {
     "id": "jo-malone-basil-neroli-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "罗勒与橙花香水",
     "nameEn": "Basil & Neroli Cologne",
-    "aliases": [],
+    "aliases": [
+      "罗勒与橙花",
+      "Basil & Neroli"
+    ],
     "series": "Basil & Neroli",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新柑橘调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L5NH01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L5NH01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "basil",
       "neroli",
@@ -2512,7 +3453,15 @@
         "white-musk"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-basil-neroli-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/basil-neroli-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2525,6 +3474,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/basil-neroli-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/43297/basil-neroli-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2532,15 +3499,25 @@
   {
     "id": "jo-malone-earl-grey-cucumber-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "伯爵茶与小黄瓜香水",
     "nameEn": "Earl Grey & Cucumber Cologne",
-    "aliases": [],
+    "aliases": [
+      "伯爵茶与小黄瓜",
+      "Earl Grey & Cucumber"
+    ],
     "series": "Earl Grey & Cucumber",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新柑橘调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L38L01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L38L01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "bergamot",
       "cucumber",
@@ -2557,7 +3534,15 @@
         "beeswax"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-earl-grey-cucumber-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/earl-grey-cucumber-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2570,6 +3555,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/earl-grey-cucumber-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/15968/earl-grey-cucumber-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2577,15 +3580,25 @@
   {
     "id": "jo-malone-vanilla-anise-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "香草与茴香香水",
     "nameEn": "Vanilla & Anise Cologne",
-    "aliases": [],
+    "aliases": [
+      "香草与茴香",
+      "Vanilla & Anise"
+    ],
     "series": "Vanilla & Anise",
     "concentration": "Cologne",
-    "family": null,
+    "family": "温暖琥珀调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L1TW01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L1TW01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "star-anise",
       "purple-vanilla-orchid",
@@ -2602,7 +3615,15 @@
         "vanilla-bourbon"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-vanilla-anise-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/vanilla-anise-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2615,6 +3636,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/vanilla-anise-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/9938/vanilla-anise-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2622,15 +3661,25 @@
   {
     "id": "jo-malone-white-jasmine-mint-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "白茉莉与薄荷香水",
     "nameEn": "White Jasmine & Mint Cologne",
-    "aliases": [],
+    "aliases": [
+      "白茉莉与薄荷",
+      "White Jasmine & Mint"
+    ],
     "series": "White Jasmine & Mint",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清淡花香调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L19401_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L19401_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "mint",
       "heirloom-jasmine",
@@ -2647,7 +3696,15 @@
         "mate"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-white-jasmine-mint-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/white-jasmine-mint-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2660,6 +3717,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/white-jasmine-mint-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/9907/white-jasmine-mint-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null
@@ -2667,15 +3742,25 @@
   {
     "id": "jo-malone-nutmeg-ginger-cologne",
     "brandId": "jo-malone",
-    "nameZh": null,
+    "nameZh": "肉豆蔻与姜香水",
     "nameEn": "Nutmeg & Ginger Cologne",
-    "aliases": [],
+    "aliases": [
+      "肉豆蔻与姜",
+      "Nutmeg & Ginger"
+    ],
     "series": "Nutmeg & Ginger",
     "concentration": "Cologne",
-    "family": null,
+    "family": "清新木质调",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/jm/jm_sku_L00M01_3000x3000_0S.png?width=650px&height=750px",
+      "originalUrl": "https://sdcdn.io/jm/jm_sku_L00M01_3000x3000_0S.png?width=650px&height=750px",
+      "sourceUrl": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+      "credit": "Jo Malone London",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "ginger",
       "nutmeg",
@@ -2692,7 +3777,15 @@
         "sandalwood"
       ]
     },
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "jo-malone-nutmeg-ginger-cologne-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.jomalone.co.za/product/nutmeg-ginger-cologne?size=100_ml",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
@@ -2705,6 +3798,24 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官网商品页公开三调"
+      },
+      {
+        "url": "https://www.jomalone.co.za/product/nutmeg-ginger-cologne?size=100_ml",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：对应版本瓶身、香型、香调与容量"
+      },
+      {
+        "url": "https://www.jomalone.com.tw/product/25946/9737/nutmeg-ginger-cologne",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌台湾商品页：中文名称（简体转写）"
+      },
+      {
+        "url": "https://www.jomalone.co.za/products/colognes/view-all-colognes",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌目录：对应版本商品正面图（移动端尺寸）"
       }
     ],
     "description": null

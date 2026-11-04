@@ -10,7 +10,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T2HB01_2000x2000_0.png.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T2HB01_2000x2000_0.png.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-voyager-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "oud",
       "geranium",
@@ -19,7 +26,29 @@
       "osmanthus"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-oud-voyager-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-voyager-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-voyager-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-voyager-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-voyager-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-voyager-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -32,6 +61,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/oud-voyager-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -47,7 +82,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T6LN01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T6LN01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tonka-bean",
       "bitter-almond",
@@ -56,7 +98,36 @@
       "peru-balsam"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-lost-cherry-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-lost-cherry-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-lost-cherry-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-lost-cherry-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -75,6 +146,12 @@
         "type": "retailer-series",
         "verifiedAt": "2026-11-04",
         "label": "京东自营旗舰店：失落樱桃系列（非价格依据）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/lost-cherry-eau-de-parfum?dwvar_T6-LOSTCHERRY_color=OC",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -90,7 +167,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T01K01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T01K01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tonka-bean",
       "tobacco",
@@ -98,7 +182,43 @@
       "cocoa"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-tobacco-vanille-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-vanille-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-vanille-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-vanille-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-vanille-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -111,6 +231,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -126,16 +252,51 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T06B01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T06B01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-soleil-blanc-eau-de-toilette",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-soleil-blanc-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-soleil-blanc-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-soleil-blanc-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/eau-de-soleil-blanc-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": null
@@ -226,14 +387,57 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T4Q901_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T4Q901_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "cocoa",
       "peru-balsam"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-tobacco-chocolat-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-chocolat-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-chocolat-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-chocolat-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tobacco-chocolat-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -246,6 +450,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/tobacco-chocolat-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -261,7 +471,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T5Y201_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T5Y201_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "patchouli",
@@ -271,7 +488,43 @@
       "leather"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-ombre-leather-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-eau-de-parfum-150ml",
+        "ml": 150.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -284,6 +537,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/ombre-leather-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -299,7 +558,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T1XF01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T1XF01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "pink-pepper",
@@ -309,7 +575,43 @@
       "tonka-bean"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-oud-wood-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-wood-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-wood-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-wood-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-wood-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -322,6 +624,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/oud-wood-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -337,7 +645,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T54S01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T54S01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tobacco",
       "ginger",
@@ -345,7 +660,15 @@
       "oakwood"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-tobacco-vanille-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -358,6 +681,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/tobacco-vanille-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -373,7 +702,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T2KB01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T2KB01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "ylang-ylang",
       "fig",
@@ -381,7 +717,43 @@
       "vetiver"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-figue-erotique-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-figue-erotique-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-figue-erotique-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-figue-erotique-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-figue-erotique-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -394,6 +766,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/figue-erotique-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -409,7 +787,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tfb_sku_T00501_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tfb_sku_T00501_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "orchid-accord",
@@ -419,7 +804,43 @@
       "rum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-black-orchid-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-eau-de-parfum-150ml",
+        "ml": 150.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -432,6 +853,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -447,7 +874,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tfb_sku_T61501_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tfb_sku_T61501_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tonka-bean",
       "orris",
@@ -456,7 +890,43 @@
       "clary-sage"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-fucking-fabulous-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-fucking-fabulous-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-fucking-fabulous-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-fucking-fabulous-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-fucking-fabulous-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -469,6 +939,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -484,7 +960,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T3Z501_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T3Z501_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "patchouli",
@@ -493,7 +976,36 @@
       "oakmoss"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-taormina-orange-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-taormina-orange-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-taormina-orange-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-taormina-orange-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -506,6 +1018,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/taormina-orange-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -521,7 +1039,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0M901_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0M901_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "bergamot",
       "orange-flower",
@@ -530,7 +1055,43 @@
       "lavender"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-neroli-portofino-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-neroli-portofino-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-neroli-portofino-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-neroli-portofino-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-neroli-portofino-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -543,6 +1104,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -558,7 +1125,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCFC01_2000x2000_0S.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCFC01_2000x2000_0S.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "sandalwood",
@@ -566,7 +1140,43 @@
       "orris"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-vanilla-sex-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-vanilla-sex-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-vanilla-sex-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-vanilla-sex-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-vanilla-sex-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -579,6 +1189,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/vanilla-sex-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -594,7 +1210,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T3T001_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T3T001_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "ylang-ylang",
@@ -604,7 +1227,43 @@
       "coco-de-mer-accord"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-soleil-blanc-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-blanc-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-blanc-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-blanc-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-blanc-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -617,6 +1276,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -632,7 +1297,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T3S301_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T3S301_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-grey-vetiver-eau-de-toilette",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "bergamot",
       "vetiver",
@@ -641,7 +1313,29 @@
       "musk"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-grey-vetiver-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-grey-vetiver-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-de-grey-vetiver-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -654,6 +1348,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/eau-de-grey-vetiver-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -669,7 +1369,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T94101_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T94101_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bitter-peach-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "sandalwood",
@@ -678,7 +1385,29 @@
       "labdanum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-bitter-peach-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bitter-peach-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-bitter-peach-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bitter-peach-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-bitter-peach-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bitter-peach-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -691,6 +1420,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/bitter-peach-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -706,7 +1441,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCRC01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCRC01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/santal-blush-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "sandalwood",
       "ylang-ylang",
@@ -716,7 +1458,22 @@
       "cedarwood"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-santal-blush-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/santal-blush-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-santal-blush-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/santal-blush-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -729,6 +1486,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/santal-blush-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -744,7 +1507,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCXM01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCXM01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "bergamot",
@@ -753,7 +1523,15 @@
       "petitgrain"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-neroli-portofino-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -766,6 +1544,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/neroli-portofino-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -781,7 +1565,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T36D01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T36D01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "bergamot",
@@ -791,7 +1582,36 @@
       "cistus"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-soleil-neige-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-neige-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-neige-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-soleil-neige-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -804,6 +1624,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/soleil-neige-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -819,7 +1645,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCRN01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCRN01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/electric-cherry-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "ginger",
       "cherry-accord",
@@ -828,7 +1661,29 @@
       "ambrettolide"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-electric-cherry-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/electric-cherry-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-electric-cherry-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/electric-cherry-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-electric-cherry-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/electric-cherry-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -841,6 +1696,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/electric-cherry-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -856,7 +1717,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0J701_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0J701_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "vetiver",
       "orange-flower",
@@ -866,7 +1734,22 @@
       "pimento"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-grey-vetiver-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-grey-vetiver-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -879,6 +1762,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -894,7 +1783,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TEEX01_3000x3000_0S.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TEEX01_3000x3000_0S.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bois-pacifique-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "sandalwood",
@@ -904,7 +1800,22 @@
       "olibanum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-bois-pacifique-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bois-pacifique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-bois-pacifique-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bois-pacifique-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -917,6 +1828,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/bois-pacifique-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -932,7 +1849,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T8M101_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T8M101_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "tonka-bean",
@@ -941,7 +1865,36 @@
       "tolu-balsam"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-rose-prick-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-rose-prick-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-rose-prick-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-rose-prick-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -954,6 +1907,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/rose-prick-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -969,7 +1928,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TEF701_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TEF701_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-dombre-leather-eau-de-toilette",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tonka-bean",
       "sandalwood",
@@ -978,7 +1944,29 @@
       "benzoin"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-eau-dombre-leather-eau-de-toilette-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-dombre-leather-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-dombre-leather-eau-de-toilette-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-dombre-leather-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-eau-dombre-leather-eau-de-toilette-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/eau-dombre-leather-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -991,6 +1979,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/eau-dombre-leather-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1006,7 +2000,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T9C801_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T9C801_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "patchouli",
@@ -1016,7 +2017,29 @@
       "leather"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-ombre-leather-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ombre-leather-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ombre-leather-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1029,6 +2052,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/ombre-leather-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1044,16 +2073,51 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCWW01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCWW01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-minerale-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-oud-minerale-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-minerale-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-minerale-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-minerale-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-oud-minerale-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-minerale-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/oud-minerale-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": null
@@ -1069,7 +2133,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCRX01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCRX01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cherry-smoke-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cherry-accord",
       "peru-balsam",
@@ -1078,7 +2149,22 @@
       "olibanum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-cherry-smoke-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cherry-smoke-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-cherry-smoke-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cherry-smoke-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1091,6 +2177,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/cherry-smoke-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1106,7 +2198,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TEA601_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TEA601_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanille-fatale-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "vanilla",
       "coffee",
@@ -1114,7 +2213,22 @@
       "barley"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-vanille-fatale-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanille-fatale-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-vanille-fatale-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/vanille-fatale-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1127,6 +2241,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/vanille-fatale-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1142,7 +2262,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TAJK01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TAJK01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "pink-pepper",
@@ -1152,7 +2279,15 @@
       "tonka-bean"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-oud-wood-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/oud-wood-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1165,6 +2300,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/oud-wood-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1180,7 +2321,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T95P01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T95P01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "palo-santo",
       "ebony",
@@ -1188,7 +2336,36 @@
       "cistus"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-ebene-fume-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ebene-fume-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ebene-fume-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-ebene-fume-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1201,6 +2378,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/ebene-fume-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1216,7 +2399,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TE9P01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TE9P01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/myrrhe-mystere-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "sandalwood",
@@ -1225,7 +2415,22 @@
       "absinthe"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-myrrhe-mystere-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/myrrhe-mystere-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-myrrhe-mystere-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/myrrhe-mystere-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1238,6 +2443,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/myrrhe-mystere-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1253,7 +2464,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TC6X01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TC6X01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "amber",
       "oakwood",
@@ -1263,7 +2481,15 @@
       "driftwood"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-costa-azzurra-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1276,6 +2502,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1291,7 +2523,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T77901_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T77901_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/white-suede-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "saffron",
       "leather",
@@ -1302,7 +2541,29 @@
       "suede"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-white-suede-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/white-suede-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-white-suede-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/white-suede-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-white-suede-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/white-suede-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1315,6 +2576,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/white-suede-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1330,7 +2597,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T9AT01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T9AT01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "amber",
       "oakwood",
@@ -1340,7 +2614,29 @@
       "driftwood"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-costa-azzurra-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-costa-azzurra-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-costa-azzurra-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1353,6 +2649,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/costa-azzurra-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1368,7 +2670,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0SD01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0SD01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/amber-intrigue-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "amber",
       "sandalwood",
@@ -1378,7 +2687,15 @@
       "date"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-amber-intrigue-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/amber-intrigue-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1391,6 +2708,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/amber-intrigue-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1406,7 +2729,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TAJP01_3000x3000_0S.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TAJP01_3000x3000_0S.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "peony",
       "cedarwood",
@@ -1414,7 +2744,36 @@
       "ebony"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-black-lacquer-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-lacquer-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-lacquer-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-lacquer-eau-de-parfum-250ml",
+        "ml": 250.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1427,6 +2786,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/black-lacquer-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1442,7 +2807,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0KQ01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0KQ01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-exposed-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "rose",
       "cashmeran",
@@ -1450,7 +2822,22 @@
       "white-pepper"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-rose-exposed-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-exposed-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-rose-exposed-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/rose-exposed-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1463,6 +2850,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/rose-exposed-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1478,7 +2871,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0C801_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0C801_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-de-noir-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "oud",
@@ -1488,7 +2888,22 @@
       "crocus"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-noir-de-noir-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-de-noir-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-noir-de-noir-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-de-noir-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1501,6 +2916,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/noir-de-noir-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1516,7 +2937,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCAH01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCAH01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bois-marocain-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "sandalwood",
       "vetiver",
@@ -1525,7 +2953,15 @@
       "thuya"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-bois-marocain-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/bois-marocain-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1538,6 +2974,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/bois-marocain-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1553,7 +2995,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TE9101_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TE9101_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "cardamom",
       "jasmine",
@@ -1563,7 +3012,15 @@
       "coco-de-mer-accord"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-soleil-blanc-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1576,6 +3033,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/soleil-blanc-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1591,7 +3054,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T1Y501_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T1Y501_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/mandarino-di-amalfi-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "mandarin",
@@ -1601,7 +3071,15 @@
       "shiso"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-mandarino-di-amalfi-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/mandarino-di-amalfi-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1614,6 +3092,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/mandarino-di-amalfi-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1629,7 +3113,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T6G501_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T6G501_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tuscan-leather-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "saffron",
@@ -1640,7 +3131,29 @@
       "raspberry"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-tuscan-leather-eau-de-parfum-30ml",
+        "ml": 30.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tuscan-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tuscan-leather-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tuscan-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-tuscan-leather-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/tuscan-leather-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1653,6 +3166,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/tuscan-leather-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1668,7 +3187,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TEKY01_3000x3000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TEKY01_3000x3000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "tonka-bean",
       "orris",
@@ -1678,7 +3204,15 @@
       "fir-balsam"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-fucking-fabulous-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1691,6 +3225,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/fucking-fabulous-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1706,16 +3246,51 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCY401_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCY401_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cafe-rose-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-cafe-rose-eau-de-parfum-10ml",
+        "ml": 10.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cafe-rose-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-cafe-rose-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cafe-rose-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-cafe-rose-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/cafe-rose-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/cafe-rose-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": null
@@ -1731,14 +3306,29 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TANP01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TANP01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/azure-lime-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "sandalwood",
       "lime",
       "buchu"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-azure-lime-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/azure-lime-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1751,6 +3341,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/azure-lime-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1766,13 +3362,28 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TCXJ01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TCXJ01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-de-feu-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "sandalwood",
       "benzoin"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-soleil-de-feu-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/soleil-de-feu-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1785,6 +3396,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/soleil-de-feu-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1800,7 +3417,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T1X401_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T1X401_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/velvet-orchid-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine",
       "sandalwood",
@@ -1810,7 +3434,22 @@
       "myrrh"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-velvet-orchid-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/velvet-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-velvet-orchid-eau-de-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/velvet-orchid-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1823,6 +3462,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/velvet-orchid-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1838,7 +3483,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tfb_sku_T9Y101_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tfb_sku_T9Y101_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "vetiver",
       "orange-flower",
@@ -1848,7 +3500,22 @@
       "pimento"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-grey-vetiver-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-grey-vetiver-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1861,6 +3528,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/grey-vetiver-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1876,7 +3549,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T90F01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T90F01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "orchid-accord",
@@ -1886,7 +3566,22 @@
       "rum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-black-orchid-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1899,6 +3594,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/black-orchid-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1914,7 +3615,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TC7A01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TC7A01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-extreme-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "rose",
       "saffron",
@@ -1924,7 +3632,22 @@
       "neroli"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-noir-extreme-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-extreme-parfum",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-noir-extreme-parfum-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/noir-extreme-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -1937,6 +3660,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/noir-extreme-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -1977,7 +3706,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T6GX01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T6GX01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fougere-dargent-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "ginger",
       "mandarin",
@@ -1987,7 +3723,15 @@
       "coumarin"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-fougere-d-argent-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/fougere-dargent-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -2000,6 +3744,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/fougere-dargent-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -2015,7 +3765,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_TE6N01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_TE6N01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-toilette",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "patchouli",
       "orchid-accord",
@@ -2025,7 +3782,22 @@
       "rum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-black-orchid-eau-de-toilette-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "tom-ford-black-orchid-eau-de-toilette-100ml",
+        "ml": 100.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-toilette",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -2038,6 +3810,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/black-orchid-eau-de-toilette",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
@@ -2053,7 +3831,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sdcdn.io/tf/tf_sku_T0WT01_2000x2000_0.png?height=700px&width=700px",
+      "originalUrl": "https://sdcdn.io/tf/tf_sku_T0WT01_2000x2000_0.png?height=700px&width=700px",
+      "sourceUrl": "https://www.tomfordbeauty.co.uk/product/jasmin-rouge-eau-de-parfum",
+      "credit": "Tom Ford Beauty",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "amber",
       "ylang-ylang",
@@ -2061,7 +3846,15 @@
       "labdanum"
     ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "tom-ford-jasmin-rouge-eau-de-parfum-50ml",
+        "ml": 50.0,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.tomfordbeauty.co.uk/product/jasmin-rouge-eau-de-parfum",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.tomfordbeauty.com/collections/fragrance",
@@ -2074,6 +3867,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "官方商品页 Key Notes（统一香调词表）"
+      },
+      {
+        "url": "https://www.tomfordbeauty.co.uk/product/jasmin-rouge-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "英国官网：对应香水正面图及容量"
       }
     ],
     "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"

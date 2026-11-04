@@ -10,7 +10,14 @@
     "family": "清新-细腻",
     "year": 2005,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/26993_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/26993_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园香水-V26993/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "green-mango",
       "lotus",
@@ -42,6 +49,12 @@
         "url": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园香水-V26993/",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕尼罗河花园香水-V26993/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
       }
     ],
     "description": "官网上段主要材质写“槭木”，下段历史文案写“梧桐木”；此处采用上段当前主要材质列表，不强行合并两者。"
@@ -57,7 +70,14 @@
     "family": "清新-细腻",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/32122_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/32122_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕李先生花园淡香水-V32122/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "jasmine-sambac",
       "kumquat",
@@ -80,6 +100,12 @@
         "url": "https://www.hermes.cn/cn/zh/product/爱马仕李先生花园淡香水-V32122/",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕李先生花园淡香水-V32122/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
       }
     ],
     "description": null
@@ -95,7 +121,14 @@
     "family": "温馨-感性",
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/109287V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/109287V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109287V0/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "golden-grasses",
       "olive-wood",
@@ -120,6 +153,15 @@
         "verifiedAt": "2026-11-03",
         "region": "CN",
         "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-un-jardin-a-cythere-eau-de-toilette-100ml",
+        "ml": 100,
+        "priceCnyFen": 150000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E5%9F%BA%E8%A5%BF%E6%8B%89%E5%B2%9B%E8%8A%B1%E5%9B%AD%E6%B7%A1%E9%A6%99%E6%B0%B4-V109289V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
       }
     ],
     "sources": [
@@ -127,6 +169,12 @@
         "url": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109287V0/",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕基西拉岛花园淡香水-V109287V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
       }
     ],
     "description": null
@@ -142,7 +190,14 @@
     "family": "琥珀木香型",
     "year": 2004,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/107058V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/107058V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107058V0/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "elemi",
       "benzoin",
@@ -167,6 +222,15 @@
         "verifiedAt": "2026-11-03",
         "region": "CN",
         "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-eau-des-merveilles-eau-de-toilette-100ml",
+        "ml": 100,
+        "priceCnyFen": 156000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E6%A9%98%E5%BD%A9%E6%98%9F%E5%85%89%E6%B7%A1%E9%A6%99%E6%B0%B4-V107291V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
       }
     ],
     "sources": [
@@ -174,6 +238,12 @@
         "url": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107058V0/",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕橘彩星光淡香水-V107058V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
       }
     ],
     "description": "官网香调段使用“苦橙”，主要材质段使用“酸橙”；此处采用香调段，不推断为青柠。"
@@ -954,11 +1024,22 @@
     "aliases": [],
     "series": "Caleche",
     "concentration": "Eau de Toilette",
-    "family": null,
+    "family": "温馨-感性",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/107388V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/107388V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "aldehydes",
+      "jasmine",
+      "rose"
+    ],
     "pyramid": null,
     "sizes": [
       {
@@ -966,6 +1047,15 @@
         "ml": 100,
         "priceCnyFen": 160000,
         "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-caleche-eau-de-toilette-50ml",
+        "ml": 50,
+        "priceCnyFen": 111000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E5%87%AF%E8%8E%B1%E8%AF%97%E6%B7%A1%E9%A6%99%E6%B0%B4-V107391V0/",
         "verifiedAt": "2026-11-04",
         "region": "CN",
         "priceType": "大陆官网常规标价"
@@ -982,6 +1072,18 @@
         "type": "official-cn",
         "verifiedAt": "2026-11-04",
         "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕凯莱诗淡香水-V107388V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：嗅觉记忆和主要原料（未分三调）"
       }
     ],
     "description": null
@@ -1186,7 +1288,7 @@
     "aliases": [],
     "series": "Terre d'Hermes",
     "concentration": "Parfum",
-    "family": null,
+    "family": "温馨-感性",
     "year": null,
     "status": null,
     "image": {
@@ -1199,7 +1301,11 @@
       "changes": "原始 JPEG，未修改；页面等比展示。",
       "verifiedAt": "2026-11-04"
     },
-    "noteIds": [],
+    "noteIds": [
+      "grapefruit",
+      "cedarwood",
+      "shiso"
+    ],
     "pyramid": null,
     "sizes": [
       {
@@ -1223,6 +1329,12 @@
         "type": "official-cn",
         "verifiedAt": "2026-11-04",
         "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地香精-V107757V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：嗅觉记忆和主要原料（未分三调）"
       }
     ],
     "description": null
@@ -1235,11 +1347,22 @@
     "aliases": [],
     "series": "Terre d'Hermes Eau Givree",
     "concentration": "Eau de Parfum",
-    "family": null,
+    "family": "清新-细腻",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/107535V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/107535V0_front_wm_102?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "citron",
+      "juniper",
+      "timut-pepper"
+    ],
     "pyramid": null,
     "sizes": [
       {
@@ -1247,6 +1370,15 @@
         "ml": 50,
         "priceCnyFen": 98000,
         "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-terre-d-hermes-eau-givree-eau-de-parfum-100ml",
+        "ml": 100,
+        "priceCnyFen": 136000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E5%A4%A7%E5%9C%B0%E6%B3%A0%E6%B4%8C%E4%B9%8B%E6%B0%B4%E9%A6%99%E6%B0%B4-V107522V0/",
         "verifiedAt": "2026-11-04",
         "region": "CN",
         "priceType": "大陆官网常规标价"
@@ -1263,6 +1395,18 @@
         "type": "official-cn",
         "verifiedAt": "2026-11-04",
         "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地泠洌之水香水-V107535V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：嗅觉记忆和主要原料（未分三调）"
       }
     ],
     "description": null
@@ -1275,11 +1419,22 @@
     "aliases": [],
     "series": "Terre d'Hermes Eau Intense Vetiver",
     "concentration": "Eau de Parfum",
-    "family": null,
+    "family": "干香-辛辣",
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://assets.hermes.cn/is/image/hermesproduct/40945_front_wm_101?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "originalUrl": "https://assets.hermes.cn/is/image/hermesproduct/40945_front_wm_101?wid=750&hei=1000&fit=fit&$product_default_bg$",
+      "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+      "credit": "Hermès",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "green-bergamot",
+      "sichuan-pepper",
+      "vetiver"
+    ],
     "pyramid": null,
     "sizes": [
       {
@@ -1287,6 +1442,15 @@
         "ml": 50,
         "priceCnyFen": 98000,
         "sourceUrl": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+        "verifiedAt": "2026-11-04",
+        "region": "CN",
+        "priceType": "大陆官网常规标价"
+      },
+      {
+        "id": "hermes-terre-d-hermes-eau-intense-vetiver-eau-de-parfum-100ml",
+        "ml": 100,
+        "priceCnyFen": 136000,
+        "sourceUrl": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E5%A4%A7%E5%9C%B0%E9%A6%A5%E9%83%81%E9%A6%99%E6%A0%B9%E8%8D%89%E9%A6%99%E5%9E%8B%E9%A6%99%E6%B0%B4-V40946/",
         "verifiedAt": "2026-11-04",
         "region": "CN",
         "priceType": "大陆官网常规标价"
@@ -1303,6 +1467,18 @@
         "type": "official-cn",
         "verifiedAt": "2026-11-04",
         "label": "爱马仕大陆官网：查看商品图片及对应规格价格"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：对应商品瓶身图"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香根草香型香水-V40945/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-04",
+        "label": "大陆官网：嗅觉记忆和主要原料（未分三调）"
       }
     ],
     "description": null

@@ -6,20 +6,59 @@
     "nameEn": "SANTAL 33",
     "aliases": [],
     "series": "SANTAL 33",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/310101a.050.-_1.jpg?v=1681720360",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/310101a.050.-_1.jpg?v=1681720360",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/santal-33_144",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "cardamom",
+      "iris",
+      "violet"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-santal-33-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/santal-33_144",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-santal-33-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/santal-33_144",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-santal-33-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/santal-33_144",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/santal-33_144",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -35,7 +74,14 @@
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/files/050PA13100__PRODUCT_01.jpg?v=1748479658",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/files/050PA13100__PRODUCT_01.jpg?v=1748479658",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/another-13_134",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
     "noteIds": [
       "ambroxyde",
       "jasmine",
@@ -77,6 +123,12 @@
         "type": "official",
         "verifiedAt": "2026-11-03",
         "label": "日本官网：浓度、香调与容量"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/another-13_134",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -88,20 +140,60 @@
     "nameEn": "ROSE 31",
     "aliases": [],
     "series": "ROSE 31",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/130101a.050.-_1.jpg?v=1681720351",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/130101a.050.-_1.jpg?v=1681720351",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/rose-31_143",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "rose",
+      "cedarwood",
+      "amber",
+      "guaiac-wood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-rose-31-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/rose-31_143",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-rose-31-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/rose-31_143",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-rose-31-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/rose-31_143",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/rose-31_143",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -113,20 +205,58 @@
     "nameEn": "THÉ NOIR 29",
     "aliases": [],
     "series": "THÉ NOIR 29",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/350101a.050.-_1.jpg?v=1681720367",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/350101a.050.-_1.jpg?v=1681720367",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/th-noir-29_145",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "black-tea",
+      "tobacco"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-the-noir-29-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-noir-29_145",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-the-noir-29-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-noir-29_145",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-the-noir-29-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-noir-29_145",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/th-noir-29_145",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -138,20 +268,61 @@
     "nameEn": "THÉ MATCHA 26",
     "aliases": [],
     "series": "THÉ MATCHA 26",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/260101a.050.-_1.jpg?v=1681720691",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/260101a.050.-_1.jpg?v=1681720691",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/th-matcha-26_253",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "matcha",
+      "fig",
+      "vetiver",
+      "cedarwood",
+      "bitter-orange"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-the-matcha-26-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-matcha-26_253",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-the-matcha-26-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-matcha-26_253",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-the-matcha-26-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/th-matcha-26_253",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/th-matcha-26_253",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -163,20 +334,62 @@
     "nameEn": "BERGAMOTE 22",
     "aliases": [],
     "series": "BERGAMOTE 22",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/120101a.050.-_1.jpg?v=1681720297",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/120101a.050.-_1.jpg?v=1681720297",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/bergamote-22_135",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "bergamot",
+      "petitgrain",
+      "grapefruit",
+      "amber",
+      "musk",
+      "vetiver"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-bergamote-22-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/bergamote-22_135",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-bergamote-22-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/bergamote-22_135",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-bergamote-22-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/bergamote-22_135",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/bergamote-22_135",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -188,20 +401,60 @@
     "nameEn": "EUCALYPTUS 20",
     "aliases": [],
     "series": "EUCALYPTUS 20",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/files/J3F801R000__PRODUCT_01_d90ceb7c-5b47-415b-8c0f-bdf17a7ce7ec.jpg?v=1737702582",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/files/J3F801R000__PRODUCT_01_d90ceb7c-5b47-415b-8c0f-bdf17a7ce7ec.jpg?v=1737702582",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/eucalyptus-20_324",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "eucalyptus",
+      "cedarwood",
+      "labdanum",
+      "musk"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-eucalyptus-20-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/eucalyptus-20_324",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-eucalyptus-20-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/eucalyptus-20_324",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-eucalyptus-20-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/eucalyptus-20_324",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/eucalyptus-20_324",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -213,20 +466,61 @@
     "nameEn": "LAVANDE 31",
     "aliases": [],
     "series": "LAVANDE 31",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/files/lavande-31_310.100ml.-_1.jpg?v=1695195456",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/files/lavande-31_310.100ml.-_1.jpg?v=1695195456",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/lavande-31_310",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "lavender",
+      "bergamot",
+      "neroli",
+      "musk",
+      "tonka-bean"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-lavande-31-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lavande-31_310",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-lavande-31-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lavande-31_310",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-lavande-31-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lavande-31_310",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/lavande-31_310",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -238,20 +532,57 @@
     "nameEn": "BAIE 19",
     "aliases": [],
     "series": "BAIE 19",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/420101a.050.-_1.jpg?v=1681720585",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/420101a.050.-_1.jpg?v=1681720585",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/baie-19_217",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "petrichor"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-baie-19-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/baie-19_217",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-baie-19-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/baie-19_217",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-baie-19-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/baie-19_217",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/baie-19_217",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -263,20 +594,60 @@
     "nameEn": "VIOLETTE 30",
     "aliases": [],
     "series": "VIOLETTE 30",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/files/FY26-Q1_EDP_V30_15ml_GB_1500x1500_7cbe0669-1c94-4d88-8947-5dedb8cfbce0.jpg?v=1769134151",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/files/FY26-Q1_EDP_V30_15ml_GB_1500x1500_7cbe0669-1c94-4d88-8947-5dedb8cfbce0.jpg?v=1769134151",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/violette-30_347",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "white-violet",
+      "white-tea",
+      "cedarwood",
+      "guaiac-wood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-violette-30-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/violette-30_347",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-violette-30-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/violette-30_347",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-violette-30-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/violette-30_347",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/violette-30_347",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -288,20 +659,58 @@
     "nameEn": "LYS 41",
     "aliases": [],
     "series": "LYS 41",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/230101a.050.-_1.jpg?v=1681720329",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/230101a.050.-_1.jpg?v=1681720329",
+      "credit": "Le Labo",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/lys-41_140",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "jasmine",
+      "tuberose"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-lys-41-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lys-41_140",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-lys-41-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lys-41_140",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-lys-41-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/lys-41_140",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/lys-41_140",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "日本官网香水商品页：版本、图片、香调、容量"
       }
     ],
     "description": null
@@ -313,20 +722,60 @@
     "nameEn": "FLEUR D'ORANGER 27",
     "aliases": [],
     "series": "FLEUR D'ORANGER 27",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/180101a.050.-_1.jpg?v=1681720305",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/180101a.050.-_1.jpg?v=1681720305",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/fleur-doranger-27_136",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "bergamot",
+      "petitgrain",
+      "lemon",
+      "musk"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-fleur-d-oranger-27-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/fleur-doranger-27_136",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-fleur-d-oranger-27-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/fleur-doranger-27_136",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-fleur-d-oranger-27-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/fleur-doranger-27_136",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/fleur-doranger-27_136",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -338,20 +787,59 @@
     "nameEn": "JASMIN 17",
     "aliases": [],
     "series": "JASMIN 17",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/200101a.050.-_1.jpg?v=1681720313",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/200101a.050.-_1.jpg?v=1681720313",
+      "credit": "Le Labo",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/jasmin-17_138",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "musk",
+      "sandalwood",
+      "vanilla"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-jasmin-17-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/jasmin-17_138",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-jasmin-17-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/jasmin-17_138",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-jasmin-17-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/jasmin-17_138",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/jasmin-17_138",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "日本官网香水商品页：版本、图片、香调、容量"
       }
     ],
     "description": null
@@ -363,20 +851,59 @@
     "nameEn": "TONKA 25",
     "aliases": [],
     "series": "TONKA 25",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/J1JL010000.050.-_1.jpg?v=1681720486",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/J1JL010000.050.-_1.jpg?v=1681720486",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/tonka-25_183",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "tonka-bean",
+      "musk",
+      "cedarwood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-tonka-25-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/tonka-25_183",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-tonka-25-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/tonka-25_183",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-tonka-25-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/tonka-25_183",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/tonka-25_183",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -413,20 +940,58 @@
     "nameEn": "PATCHOULI 24",
     "aliases": [],
     "series": "PATCHOULI 24",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/160101a.050.-_1.jpg?v=1681720344",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/160101a.050.-_1.jpg?v=1681720344",
+      "credit": "Le Labo",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/patchouli-24_142",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "patchouli",
+      "vanilla"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-patchouli-24-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/patchouli-24_142",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-patchouli-24-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/patchouli-24_142",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-patchouli-24-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/patchouli-24_142",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/patchouli-24_142",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "日本官网香水商品页：版本、图片、香调、容量"
       }
     ],
     "description": null
@@ -438,20 +1003,60 @@
     "nameEn": "VETIVER 46",
     "aliases": [],
     "series": "VETIVER 46",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/140101a.050.-_1.jpg?v=1681720374",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/140101a.050.-_1.jpg?v=1681720374",
+      "credit": "Le Labo",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/vetiver-46_146",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "vetiver",
+      "guaiac-wood",
+      "labdanum",
+      "cedarwood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-vetiver-46-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/vetiver-46_146",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-vetiver-46-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/vetiver-46_146",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-vetiver-46-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/vetiver-46_146",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/vetiver-46_146",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "日本官网香水商品页：版本、图片、香调、容量"
       }
     ],
     "description": null
@@ -463,20 +1068,58 @@
     "nameEn": "AMBRETTE 9",
     "aliases": [],
     "series": "AMBRETTE 9",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/110101a.050.-_1.jpg?v=1681720280",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/110101a.050.-_1.jpg?v=1681720280",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/ambrette-9_133",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "ambrette-seeds",
+      "citrus"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-ambrette-9-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ambrette-9_133",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-ambrette-9-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ambrette-9_133",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-ambrette-9-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ambrette-9_133",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/ambrette-9_133",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -488,20 +1131,62 @@
     "nameEn": "YLANG 49",
     "aliases": [],
     "series": "YLANG 49",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/240101a.050.-_1.jpg?v=1681720381",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/240101a.050.-_1.jpg?v=1681720381",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/ylang-49_147",
+      "credit": "Le Labo",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "ylang-ylang",
+      "gardenia",
+      "patchouli",
+      "oakmoss",
+      "vetiver",
+      "sandalwood"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-ylang-49-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ylang-49_147",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-ylang-49-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ylang-49_147",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-ylang-49-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/ylang-49_147",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/ylang-49_147",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "品牌商品页：香水版本、产品图、容量及香调"
       }
     ],
     "description": null
@@ -513,20 +1198,58 @@
     "nameEn": "LABDANUM 18",
     "aliases": [],
     "series": "LABDANUM 18",
-    "concentration": null,
+    "concentration": "Eau de Parfum",
     "family": null,
     "year": null,
     "status": null,
-    "image": null,
-    "noteIds": [],
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.lelabofragrances.jp/cdn/shop/products/190101a.050.-_1.jpg?v=1681720320",
+      "originalUrl": "https://www.lelabofragrances.jp/cdn/shop/products/190101a.050.-_1.jpg?v=1681720320",
+      "credit": "Le Labo",
+      "sourceUrl": "https://www.lelabofragrances.jp/products/labdanum-18_139",
+      "verifiedAt": "2026-11-04"
+    },
+    "noteIds": [
+      "amber",
+      "musk"
+    ],
     "pyramid": null,
-    "sizes": [],
+    "sizes": [
+      {
+        "id": "le-labo-labdanum-18-15ml",
+        "ml": 15,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/labdanum-18_139",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-labdanum-18-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/labdanum-18_139",
+        "verifiedAt": "2026-11-04"
+      },
+      {
+        "id": "le-labo-labdanum-18-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.lelabofragrances.jp/products/labdanum-18_139",
+        "verifiedAt": "2026-11-04"
+      }
+    ],
     "sources": [
       {
         "url": "https://www.lelabofragrances.com.au/classic-collection.html",
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.lelabofragrances.jp/products/labdanum-18_139",
+        "type": "official",
+        "verifiedAt": "2026-11-04",
+        "label": "日本官网香水商品页：版本、图片、香调、容量"
       }
     ],
     "description": null

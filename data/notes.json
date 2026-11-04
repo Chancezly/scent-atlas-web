@@ -1902,5 +1902,103 @@
     "nameEn": "Damask Rose",
     "aliases": [],
     "category": "品牌公开香调"
+  },
+  {
+    "id": "tangerine",
+    "nameZh": "橘子",
+    "nameEn": "Tangerine",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "honey",
+    "nameZh": "蜂蜜",
+    "nameEn": "Honey",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambrette",
+    "nameZh": "黄葵",
+    "nameEn": "Ambrette",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "scarlet-poppy",
+    "nameZh": "绯红罂粟",
+    "nameEn": "Scarlet Poppy",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "beetroot",
+    "nameZh": "甜菜根",
+    "nameEn": "Beetroot",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "bourbon-vetiver",
+    "nameZh": "波本香根草",
+    "nameEn": "Bourbon vetiver",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "black-tea",
+    "nameZh": "红茶",
+    "nameEn": "Black tea",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "matcha",
+    "nameZh": "抹茶",
+    "nameEn": "Matcha",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "petrichor",
+    "nameZh": "雨后泥土气息",
+    "nameEn": "Petrichor",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "white-violet",
+    "nameZh": "白色紫罗兰",
+    "nameEn": "White violet",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "aldehydes",
+    "nameZh": "醛香",
+    "nameEn": "Aldehydes",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "timut-pepper",
+    "nameZh": "Timut 胡椒莓",
+    "nameEn": "Timut pepper",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "sichuan-pepper",
+    "nameZh": "川椒",
+    "nameEn": "Sichuan pepper",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-bergamot",
+    "nameZh": "绿佛手柑",
+    "nameEn": "Green bergamot",
+    "aliases": [],
+    "category": "品牌公开香调"
   }
 ]
