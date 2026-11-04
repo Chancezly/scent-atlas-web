@@ -1,0 +1,148 @@
+[
+  {
+    "id": "diptyque-philosykos-edt",
+    "brandId": "diptyque",
+    "nameZh": "希腊无花果",
+    "nameEn": "Philosykos",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://us.diptyqueparis.com/cdn/shop/files/diptyque-philosykos-eau-de-toilette-100ml-philo100-1_0831aeef-f2a4-4617-a6a1-6ea9bb724a47.jpg?v=1781571387",
+      "originalUrl": "https://us.diptyqueparis.com/cdn/shop/files/diptyque-philosykos-eau-de-toilette-100ml-philo100-1_0831aeef-f2a4-4617-a6a1-6ea9bb724a47.jpg?v=1781571387",
+      "sourceUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-philosykos-philo100v2",
+      "credit": "Diptyque",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "fig-leaf",
+      "fig-sap",
+      "fig-wood",
+      "black-pepper"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "diptyque-philosykos-edt-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-philosykos-philo100v2",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-philosykos-philo100v2",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      },
+      {
+        "url": "https://hk.diptyqueparis.com/zh-hk",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌中文站：香氛名称（简体转写），版本以商品页为准"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "diptyque-do-son-edp",
+    "brandId": "diptyque",
+    "nameZh": "杜桑",
+    "nameEn": "Do Son",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "tuberose",
+      "orange-flower",
+      "jasmine",
+      "amberwood"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "diptyque-do-son-edp-75ml",
+        "ml": 75,
+        "priceCnyFen": null,
+        "sourceUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-do-son-dosonp75cv1",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-do-son-dosonp75cv1",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      },
+      {
+        "url": "https://hk.diptyqueparis.com/zh-hk",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌中文站：香氛名称（简体转写），版本以商品页为准"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "diptyque-tam-dao-edp",
+    "brandId": "diptyque",
+    "nameZh": "谭道",
+    "nameEn": "Tam Dao",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://us.diptyqueparis.com/cdn/shop/files/diptyque-tam-dao-eau-de-parfum-TAMDAOP75CV1_front.webp?v=1781571406",
+      "originalUrl": "https://us.diptyqueparis.com/cdn/shop/files/diptyque-tam-dao-eau-de-parfum-TAMDAOP75CV1_front.webp?v=1781571406",
+      "sourceUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+      "credit": "Diptyque",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "sandalwood",
+      "cedarwood",
+      "cypress",
+      "coriander"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "diptyque-tam-dao-edp-75ml",
+        "ml": 75,
+        "priceCnyFen": null,
+        "sourceUrl": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://us.diptyqueparis.com/en-us/products/eau-de-parfum-tam-dao-tamdaop75cv1",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      },
+      {
+        "url": "https://hk.diptyqueparis.com/zh-hk",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌中文站：香氛名称（简体转写），版本以商品页为准"
+      }
+    ],
+    "description": null
+  }
+]

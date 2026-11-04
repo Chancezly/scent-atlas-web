@@ -1,0 +1,161 @@
+[
+  {
+    "id": "guerlain-shalimar-edp",
+    "brandId": "guerlain",
+    "nameZh": "一千零一夜",
+    "nameEn": "Shalimar",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "iris",
+      "vanilla"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "guerlain-shalimar-edp-30ml",
+        "ml": 30,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-G011354.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "guerlain-shalimar-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-G011354.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "guerlain-shalimar-edp-90ml",
+        "ml": 90,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-G011354.html",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-G011354.html",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      },
+      {
+        "url": "https://www.guerlain.com/tw/zh-tw",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌中文站：香氛名称（简体转写），版本以商品页为准"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "guerlain-mon-guerlain-edp",
+    "brandId": "guerlain",
+    "nameZh": "我的印记",
+    "nameEn": "Mon Guerlain",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "french-lavender",
+      "jasmine-sambac",
+      "sandalwood",
+      "vanilla"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "guerlain-mon-guerlain-edp-30ml",
+        "ml": 30,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/mon-guerlain-eau-de-parfum-P013139.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "guerlain-mon-guerlain-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/mon-guerlain-eau-de-parfum-P013139.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "guerlain-mon-guerlain-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/mon-guerlain-eau-de-parfum-P013139.html",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.guerlain.com/us/en-us/p/mon-guerlain-eau-de-parfum-P013139.html",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      },
+      {
+        "url": "https://www.guerlain.com/tw/zh-tw",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌中文站：香氛名称（简体转写），版本以商品页为准"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "guerlain-aqua-allegoria-mandarine-basilic-edt",
+    "brandId": "guerlain",
+    "nameZh": null,
+    "nameEn": "Aqua Allegoria Mandarine Basilic",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "mandarin",
+      "basil",
+      "green-tea"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "guerlain-aqua-allegoria-mandarine-basilic-edt-75ml",
+        "ml": 75,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-P014394.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "guerlain-aqua-allegoria-mandarine-basilic-edt-125ml",
+        "ml": 125,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-P014394.html",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.guerlain.com/us/en-us/p/aqua-allegoria-mandarine-basilic---eau-de-toilette-P014394.html",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  }
+]

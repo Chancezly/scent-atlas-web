@@ -1,0 +1,150 @@
+[
+  {
+    "id": "serge-lutens-ambre-sultan-edp",
+    "brandId": "serge-lutens",
+    "nameZh": null,
+    "nameEn": "Ambre sultan",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_Ambresultan_100ml_Product_36112356155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801400",
+      "originalUrl": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_Ambresultan_100ml_Product_36112356155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801400",
+      "sourceUrl": "https://sergelutens.com/products/ambre-sultan-eau-de-parfum-spray",
+      "credit": "Serge Lutens",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "amber"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "serge-lutens-ambre-sultan-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/ambre-sultan-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "serge-lutens-ambre-sultan-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/ambre-sultan-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sergelutens.com/products/ambre-sultan-eau-de-parfum-spray",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "serge-lutens-la-fille-de-berlin-edp",
+    "brandId": "serge-lutens",
+    "nameZh": null,
+    "nameEn": "La fille de Berlin",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_LafilledeBerlin_100ml_Product_36112358155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801582",
+      "originalUrl": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_LafilledeBerlin_100ml_Product_36112358155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801582",
+      "sourceUrl": "https://sergelutens.com/products/la-fille-de-berlin-eau-de-parfum-spray",
+      "credit": "Serge Lutens",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "rose"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "serge-lutens-la-fille-de-berlin-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/la-fille-de-berlin-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "serge-lutens-la-fille-de-berlin-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/la-fille-de-berlin-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sergelutens.com/products/la-fille-de-berlin-eau-de-parfum-spray",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "serge-lutens-nuit-de-cellophane-edp",
+    "brandId": "serge-lutens",
+    "nameZh": null,
+    "nameEn": "Nuit de cellophane",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_Nuitdecellophane_100ml_Product_36112360155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801767",
+      "originalUrl": "https://sergelutens.com/cdn/shop/files/SLCOLLECTIONNOIRE2025-PACKSHOT_Nuitdecellophane_100ml_Product_36112360155_Graybackground_RVB_2000x2000_300dpi_JPG.jpg?v=1779801767",
+      "sourceUrl": "https://sergelutens.com/products/nuit-de-cellophane-eau-de-parfum-spray",
+      "credit": "Serge Lutens",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "mandarin",
+      "osmanthus"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "serge-lutens-nuit-de-cellophane-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/nuit-de-cellophane-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "serge-lutens-nuit-de-cellophane-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://sergelutens.com/products/nuit-de-cellophane-eau-de-parfum-spray",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://sergelutens.com/products/nuit-de-cellophane-eau-de-parfum-spray",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  }
+]

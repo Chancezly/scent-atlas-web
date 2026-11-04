@@ -2000,5 +2000,117 @@
     "nameEn": "Green bergamot",
     "aliases": [],
     "category": "品牌公开香调"
+  },
+  {
+    "id": "centifolia-rose",
+    "nameZh": "百叶玫瑰",
+    "nameEn": "Rose centifolia",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "cyclamen",
+    "nameZh": "仙客来",
+    "nameEn": "Cyclamen",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "african-marigold",
+    "nameZh": "非洲万寿菊",
+    "nameEn": "African marigold",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fig-sap",
+    "nameZh": "无花果树汁",
+    "nameEn": "Fig tree sap",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fig-wood",
+    "nameZh": "无花果木",
+    "nameEn": "Fig wood",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "coriander",
+    "nameZh": "芫荽",
+    "nameEn": "Coriander",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-tea",
+    "nameZh": "绿茶",
+    "nameEn": "Green tea",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "caramel",
+    "nameZh": "焦糖",
+    "nameEn": "Caramel",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "fig-nectar",
+    "nameZh": "无花果花蜜",
+    "nameEn": "Fig nectar",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "jasmine-petals",
+    "nameZh": "茉莉花瓣",
+    "nameEn": "Jasmine petals",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "incense",
+    "nameZh": "焚香",
+    "nameEn": "Incense",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "verbena",
+    "nameZh": "马鞭草",
+    "nameEn": "Verbena",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "ambrox",
+    "nameZh": "龙涎酮香调",
+    "nameEn": "Ambrox",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "nectarine",
+    "nameZh": "油桃",
+    "nameEn": "Nectarine",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "longjing-tea",
+    "nameZh": "龙井茶",
+    "nameEn": "Longjing tea",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "green-sandalwood",
+    "nameZh": "绿檀木",
+    "nameEn": "Green sandalwood",
+    "aliases": [],
+    "category": "品牌公开香调"
   }
 ]

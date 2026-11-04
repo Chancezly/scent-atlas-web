@@ -1,0 +1,134 @@
+[
+  {
+    "id": "penhaligons-halfeti-edp",
+    "brandId": "penhaligons",
+    "nameZh": null,
+    "nameEn": "Halfeti",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/Halfeti_100ml_Repromote_Product_Web_PDP?%24Transparent-png%24=&amp%3Bversion=8192dd0be43175a98cb509fc7f69a8a26fb39fe0",
+      "originalUrl": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/Halfeti_100ml_Repromote_Product_Web_PDP?%24Transparent-png%24=&amp%3Bversion=8192dd0be43175a98cb509fc7f69a8a26fb39fe0",
+      "sourceUrl": "https://www.penhaligons.com/us/en/p/halfeti-edp-100ml-eau-de-parfum-100ml--000000000065225962",
+      "credit": "Penhaligon’s",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "bergamot",
+      "rose",
+      "oud"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "penhaligons-halfeti-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.penhaligons.com/us/en/p/halfeti-edp-100ml-eau-de-parfum-100ml--000000000065225962",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.penhaligons.com/us/en/p/halfeti-edp-100ml-eau-de-parfum-100ml--000000000065225962",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "penhaligons-luna-edt",
+    "brandId": "penhaligons",
+    "nameZh": null,
+    "nameEn": "Luna",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/LUNA_EDT_100ML_Product_Web_PDP?%24Transparent-png%24=&amp%3Bversion=12dc215dc629b5d8d604885e004de31755cf1cac",
+      "originalUrl": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/LUNA_EDT_100ML_Product_Web_PDP?%24Transparent-png%24=&amp%3Bversion=12dc215dc629b5d8d604885e004de31755cf1cac",
+      "sourceUrl": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840",
+      "credit": "Penhaligon’s",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "bergamot",
+      "jasmine",
+      "fir-balsam"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "penhaligons-luna-edt-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.penhaligons.com/uk/en/p/luna-eau-de-toilette-100ml--000000000065223840",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "penhaligons-the-tragedy-of-lord-george-edp",
+    "brandId": "penhaligons",
+    "nameZh": null,
+    "nameEn": "The Tragedy of Lord George",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/65173406%20Lord%20George%2075ml%20PdP?%24Transparent-png%24=&amp%3Bversion=dd168b32728af182c3b235b3e401089bc7065783",
+      "originalUrl": "https://medias.penhaligons.com/cdn-cgi/image/format%3Dauto%2Cwidth%3D825/https%3A//dynamic-assets.penhaligons.com/is/image/puig/65173406%20Lord%20George%2075ml%20PdP?%24Transparent-png%24=&amp%3Bversion=dd168b32728af182c3b235b3e401089bc7065783",
+      "sourceUrl": "https://www.penhaligons.com/us/en/p/the-tragedy-of-lord-george-eau-de-parfum-75ml--000000000065173406",
+      "credit": "Penhaligon’s",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "ambrox",
+      "rum",
+      "tonka-bean"
+    ],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "penhaligons-the-tragedy-of-lord-george-edp-75ml",
+        "ml": 75,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.penhaligons.com/us/en/p/the-tragedy-of-lord-george-eau-de-parfum-75ml--000000000065173406",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.penhaligons.com/us/en/p/the-tragedy-of-lord-george-eau-de-parfum-75ml--000000000065173406",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  }
+]

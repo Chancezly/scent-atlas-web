@@ -42,5 +42,62 @@
     "nameEn": "CHILLMORE",
     "aliases": [],
     "website": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf"
+  },
+  {
+    "id": "byredo",
+    "nameZh": "柏瑞朵",
+    "nameEn": "Byredo",
+    "aliases": [
+      "拜里朵",
+      "百瑞德"
+    ],
+    "website": "https://www.byredo.com/"
+  },
+  {
+    "id": "diptyque",
+    "nameZh": "蒂普提克",
+    "nameEn": "Diptyque",
+    "aliases": [
+      "蒂普提奇"
+    ],
+    "website": "https://www.diptyqueparis.com/"
+  },
+  {
+    "id": "guerlain",
+    "nameZh": "娇兰",
+    "nameEn": "Guerlain",
+    "aliases": [
+      "嬌蘭"
+    ],
+    "website": "https://www.guerlain.com/"
+  },
+  {
+    "id": "acqua-di-parma",
+    "nameZh": "帕尔马之水",
+    "nameEn": "Acqua di Parma",
+    "aliases": [
+      "帕尔玛之水",
+      "帕爾瑪之水"
+    ],
+    "website": "https://www.acquadiparma.com/"
+  },
+  {
+    "id": "penhaligons",
+    "nameZh": "潘海利根",
+    "nameEn": "Penhaligon’s",
+    "aliases": [
+      "Penhaligon's",
+      "Penhaligons"
+    ],
+    "website": "https://www.penhaligons.com/"
+  },
+  {
+    "id": "serge-lutens",
+    "nameZh": "芦丹氏",
+    "nameEn": "Serge Lutens",
+    "aliases": [
+      "蘆丹氏"
+    ],
+    "website": "https://sergelutens.com/"
   }
 ]

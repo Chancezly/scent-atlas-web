@@ -1,0 +1,242 @@
+[
+  {
+    "id": "byredo-blanche-edp",
+    "brandId": "byredo",
+    "nameZh": null,
+    "nameEn": "Blanche",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000051_1_full_no.jpg",
+      "originalUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000051_1_full_no.jpg",
+      "sourceUrl": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+      "credit": "Byredo",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "aldehydes",
+      "centifolia-rose",
+      "peony",
+      "violet",
+      "musk",
+      "sandalwood"
+    ],
+    "pyramid": {
+      "top": [
+        "aldehydes",
+        "centifolia-rose"
+      ],
+      "heart": [
+        "peony",
+        "violet"
+      ],
+      "base": [
+        "musk",
+        "sandalwood"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "byredo-blanche-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-blanche-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-blanche-edp-250ml",
+        "ml": 250,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.byredo.com/us_en/p/blanche-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "byredo-bal-dafrique-edp",
+    "brandId": "byredo",
+    "nameZh": null,
+    "nameEn": "Bal d’Afrique",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_26_fragrance_edp_50ml_bda_front_0037.jpg",
+      "originalUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_26_fragrance_edp_50ml_bda_front_0037.jpg",
+      "sourceUrl": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+      "credit": "Byredo",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "buchu",
+      "african-marigold",
+      "bergamot",
+      "blackcurrant",
+      "cyclamen",
+      "jasmine-petals",
+      "violet",
+      "tonka-bean",
+      "cedarwood",
+      "musk",
+      "vetiver"
+    ],
+    "pyramid": {
+      "top": [
+        "buchu",
+        "african-marigold",
+        "bergamot",
+        "blackcurrant"
+      ],
+      "heart": [
+        "cyclamen",
+        "jasmine-petals",
+        "violet"
+      ],
+      "base": [
+        "tonka-bean",
+        "cedarwood",
+        "musk",
+        "vetiver"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "byredo-bal-dafrique-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-bal-dafrique-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-bal-dafrique-edp-250ml",
+        "ml": 250,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.byredo.com/us_en/p/bal-d-afrique-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "byredo-gypsy-water-edp",
+    "brandId": "byredo",
+    "nameZh": null,
+    "nameEn": "Gypsy Water",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Parfum",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg",
+      "originalUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/0/806014_1_full_no.jpg",
+      "sourceUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+      "credit": "Byredo",
+      "verifiedAt": "2026-11-05"
+    },
+    "noteIds": [
+      "bergamot",
+      "juniper",
+      "lemon",
+      "pepper",
+      "incense",
+      "orris",
+      "pine-needles",
+      "amber",
+      "sandalwood",
+      "vanilla"
+    ],
+    "pyramid": {
+      "top": [
+        "bergamot",
+        "juniper",
+        "lemon",
+        "pepper"
+      ],
+      "heart": [
+        "incense",
+        "orris",
+        "pine-needles"
+      ],
+      "base": [
+        "amber",
+        "sandalwood",
+        "vanilla"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "byredo-gypsy-water-edp-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-gypsy-water-edp-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "byredo-gypsy-water-edp-250ml",
+        "ml": 250,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  }
+]

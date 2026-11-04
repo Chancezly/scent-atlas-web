@@ -1,764 +1,997 @@
 [
   {
-    "id": "chillmore-summer-chords-roll-on-perfume-oil",
+    "id": "chillmore-body-perfume-mist-yin-gui-you-yue",
     "brandId": "chillmore",
-    "nameZh": "夏夜虫鸣滚珠香水油",
-    "nameEn": "Summer Chords Roll-on Perfume Oil",
+    "nameZh": "银桂游月身体轻香水",
+    "nameEn": "",
     "aliases": [
-      "夏夜虫鸣",
-      "Summer Chords"
+      "银桂游月"
     ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "芳香木质调",
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "水生花香调",
     "year": null,
     "status": null,
     "image": null,
-    "noteIds": [
-      "grapefruit",
-      "eucalyptus",
-      "mint",
-      "artemisia",
-      "pink-pepper",
-      "elderflower",
-      "vetiver",
-      "patchouli",
-      "angelica"
-    ],
-    "pyramid": {
-      "top": [
-        "grapefruit",
-        "eucalyptus",
-        "mint"
-      ],
-      "heart": [
-        "artemisia",
-        "pink-pepper",
-        "elderflower"
-      ],
-      "base": [
-        "vetiver",
-        "patchouli",
-        "angelica"
-      ]
-    },
+    "noteIds": [],
+    "pyramid": null,
     "sizes": [
       {
-        "id": "chillmore-summer-chords-roll-on-perfume-oil-10ml",
-        "ml": 10,
+        "id": "chillmore-body-perfume-mist-yin-gui-you-yue-50ml",
+        "ml": 50,
         "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-yin-gui-you-yue-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
       }
     ],
     "sources": [
       {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
       }
     ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
   },
   {
-    "id": "chillmore-sparkling-coast-roll-on-perfume-oil",
+    "id": "chillmore-body-perfume-mist-hai-an-yan-huo",
     "brandId": "chillmore",
-    "nameZh": "海岸烟火滚珠香水油",
-    "nameEn": "Sparkling Coast Roll-on Perfume Oil",
+    "nameZh": "海岸烟火身体轻香水",
+    "nameEn": "",
     "aliases": [
-      "海岸烟火",
-      "Sparkling Coast"
+      "海岸烟火"
     ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
     "family": "水生木质调",
     "year": null,
     "status": null,
     "image": null,
-    "noteIds": [
-      "bergamot",
-      "lemon",
-      "pepper",
-      "honeysuckle",
-      "sea-breeze",
-      "flint",
-      "juniper",
-      "patchouli",
-      "eucalyptus",
-      "musk",
-      "amber"
-    ],
-    "pyramid": {
-      "top": [
-        "bergamot",
-        "lemon",
-        "pepper"
-      ],
-      "heart": [
-        "honeysuckle",
-        "sea-breeze",
-        "flint",
-        "juniper"
-      ],
-      "base": [
-        "patchouli",
-        "eucalyptus",
-        "musk",
-        "amber"
-      ]
-    },
+    "noteIds": [],
+    "pyramid": null,
     "sizes": [
       {
-        "id": "chillmore-sparkling-coast-roll-on-perfume-oil-10ml",
-        "ml": 10,
+        "id": "chillmore-body-perfume-mist-hai-an-yan-huo-50ml",
+        "ml": 50,
         "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-hai-an-yan-huo-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
       }
     ],
     "sources": [
       {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
       }
     ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
   },
   {
-    "id": "chillmore-bench-talk-roll-on-perfume-oil",
+    "id": "chillmore-body-perfume-mist-yue-xia-mei-li",
     "brandId": "chillmore",
-    "nameZh": "森林长椅滚珠香水油",
-    "nameEn": "Bench Talk Roll-on Perfume Oil",
+    "nameZh": "月下梅里身体轻香水",
+    "nameEn": "",
     "aliases": [
-      "森林长椅",
-      "Bench Talk"
+      "月下梅里"
     ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "木质馥奇调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "citrus",
-      "citron",
-      "bergamot",
-      "violet",
-      "artemisia",
-      "chestnut",
-      "moss",
-      "patchouli",
-      "juniper",
-      "ambergris"
-    ],
-    "pyramid": {
-      "top": [
-        "citrus",
-        "citron",
-        "bergamot"
-      ],
-      "heart": [
-        "violet",
-        "artemisia",
-        "chestnut"
-      ],
-      "base": [
-        "moss",
-        "patchouli",
-        "juniper",
-        "ambergris"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-bench-talk-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-sunrise-listener-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "晨钟日出滚珠香水油",
-    "nameEn": "Sunrise Listener Roll-on Perfume Oil",
-    "aliases": [
-      "晨钟日出",
-      "Sunrise Listener"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "东方木质调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "black-pepper",
-      "huyou",
-      "hassaku-orange",
-      "rhubarb",
-      "myrrh",
-      "guaiac-wood",
-      "cashmere-wood",
-      "vetiver",
-      "benzoin",
-      "sandalwood",
-      "oud"
-    ],
-    "pyramid": {
-      "top": [
-        "black-pepper",
-        "huyou",
-        "hassaku-orange"
-      ],
-      "heart": [
-        "rhubarb",
-        "myrrh",
-        "guaiac-wood",
-        "cashmere-wood"
-      ],
-      "base": [
-        "vetiver",
-        "benzoin",
-        "sandalwood",
-        "oud"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-sunrise-listener-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-rose-unexpected-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "街角花摊滚珠香水油",
-    "nameEn": "Rose Unexpected Roll-on Perfume Oil",
-    "aliases": [
-      "街角花摊",
-      "Rose Unexpected"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "花香果香调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "bergamot",
-      "pear",
-      "blackcurrant",
-      "violet-leaf",
-      "rose",
-      "geranium",
-      "camellia",
-      "ivy",
-      "vetiver",
-      "musk",
-      "cedarwood",
-      "sandalwood"
-    ],
-    "pyramid": {
-      "top": [
-        "bergamot",
-        "pear",
-        "blackcurrant",
-        "violet-leaf"
-      ],
-      "heart": [
-        "rose",
-        "geranium",
-        "camellia",
-        "ivy"
-      ],
-      "base": [
-        "vetiver",
-        "musk",
-        "cedarwood",
-        "sandalwood"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-rose-unexpected-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-yuzu-ocean-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "日落柚海滚珠香水油",
-    "nameEn": "Yuzu Ocean Roll-on Perfume Oil",
-    "aliases": [
-      "日落柚海",
-      "Yuzu Ocean"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "柑橘调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "yuzu",
-      "sweet-orange",
-      "lemon",
-      "bergamot",
-      "jasmine",
-      "sage",
-      "yuzu-tea",
-      "musk",
-      "cedarwood"
-    ],
-    "pyramid": {
-      "top": [
-        "yuzu",
-        "sweet-orange",
-        "lemon",
-        "bergamot"
-      ],
-      "heart": [
-        "jasmine",
-        "sage",
-        "yuzu-tea"
-      ],
-      "base": [
-        "musk",
-        "cedarwood"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-yuzu-ocean-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-misty-garden-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "薄雾花园滚珠香水油",
-    "nameEn": "Misty Garden Roll-on Perfume Oil",
-    "aliases": [
-      "薄雾花园",
-      "Misty Garden"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "绿叶花香调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "green-accord",
-      "watery-accord",
-      "lily-of-the-valley",
-      "jasmine",
-      "tuberose",
-      "gardenia",
-      "hibiscus",
-      "white-musk",
-      "oakmoss",
-      "amber"
-    ],
-    "pyramid": {
-      "top": [
-        "green-accord",
-        "watery-accord",
-        "lily-of-the-valley"
-      ],
-      "heart": [
-        "jasmine",
-        "tuberose",
-        "gardenia",
-        "hibiscus"
-      ],
-      "base": [
-        "white-musk",
-        "oakmoss",
-        "amber"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-misty-garden-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-island-vibe-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "海岛一日滚珠香水油",
-    "nameEn": "Island Vibe Roll-on Perfume Oil",
-    "aliases": [
-      "海岛一日",
-      "Island Vibe"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "绿叶果香调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "fig-leaf",
-      "grapefruit",
-      "bergamot",
-      "mint",
-      "fig",
-      "clove-leaf",
-      "coconut-milk",
-      "sea-water",
-      "geranium",
-      "ambergris",
-      "tonka-bean",
-      "musk"
-    ],
-    "pyramid": {
-      "top": [
-        "fig-leaf",
-        "grapefruit",
-        "bergamot",
-        "mint"
-      ],
-      "heart": [
-        "fig",
-        "clove-leaf",
-        "coconut-milk",
-        "sea-water",
-        "geranium"
-      ],
-      "base": [
-        "ambergris",
-        "tonka-bean",
-        "musk"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-island-vibe-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-snowy-night-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "月下梅里滚珠香水油",
-    "nameEn": "Snowy Night Roll-on Perfume Oil",
-    "aliases": [
-      "月下梅里",
-      "Snowy Night"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
     "family": "水生调",
     "year": null,
     "status": null,
     "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-yue-xia-mei-li-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-yue-xia-mei-li-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-xi-pan-ting-feng",
+    "brandId": "chillmore",
+    "nameZh": "溪畔听风身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "溪畔听风"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "绿叶调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-xi-pan-ting-feng-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-xi-pan-ting-feng-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-xia-ye-chong-ming",
+    "brandId": "chillmore",
+    "nameZh": "夏夜虫鸣身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "夏夜虫鸣"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "芳香木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-xia-ye-chong-ming-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-xia-ye-chong-ming-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-you-chuan-man-lv",
+    "brandId": "chillmore",
+    "nameZh": "游船慢旅身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "游船慢旅"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "绿叶水生调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-you-chuan-man-lv-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-you-chuan-man-lv-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-cha-xie",
+    "brandId": "chillmore",
+    "nameZh": "茶歇身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "茶歇"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "芳香木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-cha-xie-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-cha-xie-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-sen-lin-chang-yi",
+    "brandId": "chillmore",
+    "nameZh": "森林长椅身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "森林长椅"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "木质馥奇调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-sen-lin-chang-yi-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-sen-lin-chang-yi-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-xi-ling-song-she",
+    "brandId": "chillmore",
+    "nameZh": "西泠松舍身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "西泠松舍"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-xi-ling-song-she-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-xi-ling-song-she-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-hai-dao-yi-ri",
+    "brandId": "chillmore",
+    "nameZh": "海岛一日身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "海岛一日"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "绿叶果香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-hai-dao-yi-ri-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-hai-dao-yi-ri-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-bo-wu-hua-yuan",
+    "brandId": "chillmore",
+    "nameZh": "薄雾花园身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "薄雾花园"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "绿叶花香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-bo-wu-hua-yuan-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-bo-wu-hua-yuan-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-jie-jiao-hua-tan",
+    "brandId": "chillmore",
+    "nameZh": "街角花摊身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "街角花摊"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "花香果香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-jie-jiao-hua-tan-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-jie-jiao-hua-tan-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-ting-zhong-ju-shu",
+    "brandId": "chillmore",
+    "nameZh": "庭中橘树身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "庭中橘树"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "柑橘花香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-ting-zhong-ju-shu-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-ting-zhong-ju-shu-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-ri-luo-you-hai",
+    "brandId": "chillmore",
+    "nameZh": "日落柚海身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "日落柚海"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "柑橘调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-ri-luo-you-hai-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-ri-luo-you-hai-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-nuan-yang-jian-cha",
+    "brandId": "chillmore",
+    "nameZh": "暖阳煎茶身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "暖阳煎茶"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "柑橘木质调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-nuan-yang-jian-cha-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-nuan-yang-jian-cha-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-li-zhi-qing-xia",
+    "brandId": "chillmore",
+    "nameZh": "荔知青夏身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "荔知青夏"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "花香果香调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [],
+    "pyramid": null,
+    "sizes": [
+      {
+        "id": "chillmore-body-perfume-mist-li-zhi-qing-xia-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-li-zhi-qing-xia-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞店：身体轻香水商品页"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/Fk5jMTp9sLu3rpPRoLOYb16wV3Wm.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：50 ml 香型名单"
+      },
+      {
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/16/FqV-DmwiiHbgMO4lSs30FGDyw32r.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "店铺产品参数图：100 ml 香型名单"
+      },
+      {
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
+      }
+    ],
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
+  },
+  {
+    "id": "chillmore-body-perfume-mist-qing-cha-luo-gui",
+    "brandId": "chillmore",
+    "nameZh": "清茶落桂身体轻香水",
+    "nameEn": "",
+    "aliases": [
+      "清茶落桂"
+    ],
+    "series": "且悠身体轻香水",
+    "concentration": "身体轻香水",
+    "family": "花香调",
+    "year": null,
+    "status": null,
+    "image": {
+      "kind": "official-reference",
+      "url": "https://img.yzcdn.cn/upload_files/2026/09/01/FlscsrST50GQ7DC63VRkBn4x6lOn.jpg",
+      "originalUrl": "https://img.yzcdn.cn/upload_files/2026/09/01/FlscsrST50GQ7DC63VRkBn4x6lOn.jpg",
+      "sourceUrl": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+      "credit": "CHILLMORE 且悠",
+      "verifiedAt": "2026-11-05"
+    },
     "noteIds": [
-      "neroli",
-      "grapefruit",
-      "yuzu",
-      "bitter-orange",
-      "seaweed",
-      "rosemary",
-      "watery-accord",
-      "cedarwood",
+      "kumquat",
+      "nectarine",
+      "orange-flower",
+      "osmanthus",
+      "longjing-tea",
+      "spearmint",
+      "pine-needles",
+      "green-sandalwood",
+      "cashmere-wood",
       "amber"
     ],
     "pyramid": {
       "top": [
-        "neroli",
-        "grapefruit",
-        "yuzu",
-        "bitter-orange"
+        "kumquat",
+        "nectarine",
+        "orange-flower"
       ],
       "heart": [
-        "seaweed",
-        "rosemary",
-        "watery-accord"
+        "osmanthus",
+        "longjing-tea",
+        "spearmint"
       ],
       "base": [
-        "cedarwood",
+        "pine-needles",
+        "green-sandalwood",
+        "cashmere-wood",
         "amber"
       ]
     },
     "sizes": [
       {
-        "id": "chillmore-snowy-night-roll-on-perfume-oil-10ml",
-        "ml": 10,
+        "id": "chillmore-body-perfume-mist-qing-cha-luo-gui-50ml",
+        "ml": 50,
         "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "chillmore-body-perfume-mist-qing-cha-luo-gui-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "verifiedAt": "2026-11-05"
       }
     ],
     "sources": [
       {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-tea-break-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "茶歇滚珠香水油",
-    "nameEn": "Tea Break Roll-on Perfume Oil",
-    "aliases": [
-      "茶歇",
-      "Tea Break"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "芳香木质调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "citrus",
-      "bergamot",
-      "sage",
-      "white-tea",
-      "aromatic-accord",
-      "amber",
-      "ambergris"
-    ],
-    "pyramid": {
-      "top": [
-        "citrus",
-        "bergamot",
-        "sage"
-      ],
-      "heart": [
-        "white-tea",
-        "aromatic-accord"
-      ],
-      "base": [
-        "amber",
-        "ambergris"
-      ]
-    },
-    "sizes": [
+        "url": "https://detail.youzan.com/show/goods?alias=276vc1bo1jlzcz5&from_source=gbox_seo",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞商品页：瓶身主图与清茶落桂香调说明"
+      },
       {
-        "id": "chillmore-tea-break-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
+        "url": "https://img01.yzcdn.cn/upload_files/2026/10/19/Fj08vAp6NzgWwvSYvAQTukxZM7WI.jpg",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "清茶落桂：产品详情三调图"
+      },
       {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
+        "url": "https://h5.youzan.com/v2/goods/276vc1bo1jlzcz5",
+        "type": "brand-store",
+        "verifiedAt": "2026-11-05",
+        "label": "且悠有赞移动商品页：逐香型、容量与标价"
       }
     ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-morning-cedar-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "西泠松舍滚珠香水油",
-    "nameEn": "Morning Cedar Roll-on Perfume Oil",
-    "aliases": [
-      "西泠松舍",
-      "Morning Cedar"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "木质调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "mandarin",
-      "grapefruit",
-      "pine-needles",
-      "neroli",
-      "patchouli",
-      "cedarwood",
-      "galbanum",
-      "oakmoss"
-    ],
-    "pyramid": {
-      "top": [
-        "mandarin",
-        "grapefruit"
-      ],
-      "heart": [
-        "pine-needles",
-        "neroli",
-        "patchouli"
-      ],
-      "base": [
-        "cedarwood",
-        "galbanum",
-        "oakmoss"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-morning-cedar-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
-  },
-  {
-    "id": "chillmore-tangerine-yard-roll-on-perfume-oil",
-    "brandId": "chillmore",
-    "nameZh": "庭中橘树滚珠香水油",
-    "nameEn": "Tangerine Yard Roll-on Perfume Oil",
-    "aliases": [
-      "庭中橘树",
-      "Tangerine Yard"
-    ],
-    "series": "滚珠香水油",
-    "concentration": "香水油",
-    "family": "柑橘花香调",
-    "year": null,
-    "status": null,
-    "image": null,
-    "noteIds": [
-      "lemon-verbena",
-      "sweet-orange",
-      "clementine",
-      "neroli",
-      "jasmine",
-      "petitgrain",
-      "amber",
-      "vetiver",
-      "labdanum"
-    ],
-    "pyramid": {
-      "top": [
-        "lemon-verbena",
-        "sweet-orange",
-        "clementine"
-      ],
-      "heart": [
-        "neroli",
-        "jasmine",
-        "petitgrain"
-      ],
-      "base": [
-        "amber",
-        "vetiver",
-        "labdanum"
-      ]
-    },
-    "sizes": [
-      {
-        "id": "chillmore-tangerine-yard-roll-on-perfume-oil-10ml",
-        "ml": 10,
-        "priceCnyFen": null,
-        "sourceUrl": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "verifiedAt": "2026-11-03"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://image.pinguan.com/upload/20250711/dfec39a0d90f5a3ac8aae56ae7bdcf73.pdf#page=48",
-        "type": "brand-brochure",
-        "verifiedAt": "2026-11-03",
-        "label": "品牌产品手册（品观托管），第48页产品／第7–9页香型"
-      }
-    ],
-    "description": "产品及10ml规格见品牌手册第48页；香调采用第7–9页品牌同名香型介绍。该材料由品观托管，未证明当前在售，未采用价格。"
+    "description": "且悠有赞商品页按此香型逐规格标价：50 ml ¥239，100 ml ¥389（核实于2026-11-05）。此为店铺展示价，未另行核实为大陆官方常规零售价，不参与官方价格排序。"
   }
 ]

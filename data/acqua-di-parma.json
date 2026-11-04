@@ -1,0 +1,205 @@
+[
+  {
+    "id": "acqua-di-parma-colonia-edc",
+    "brandId": "acqua-di-parma",
+    "nameZh": null,
+    "nameEn": "Colonia",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Cologne",
+    "family": "柑橘调",
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "lemon",
+      "sweet-orange",
+      "bergamot",
+      "lavender",
+      "rose",
+      "verbena",
+      "rosemary",
+      "vetiver",
+      "sandalwood",
+      "patchouli"
+    ],
+    "pyramid": {
+      "top": [
+        "lemon",
+        "sweet-orange",
+        "bergamot"
+      ],
+      "heart": [
+        "lavender",
+        "rose",
+        "verbena",
+        "rosemary"
+      ],
+      "base": [
+        "vetiver",
+        "sandalwood",
+        "patchouli"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "acqua-di-parma-colonia-edc-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/colonia/COLONIAEDCRP.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "acqua-di-parma-colonia-edc-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/colonia/COLONIAEDCRP.html",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "acqua-di-parma-colonia-edc-180ml",
+        "ml": 180,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/colonia/COLONIAEDCRP.html",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.acquadiparma.com/en/us/colonia/COLONIAEDCRP.html",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  },
+  {
+    "id": "acqua-di-parma-fico-di-amalfi-edt",
+    "brandId": "acqua-di-parma",
+    "nameZh": null,
+    "nameEn": "Fico di Amalfi",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "bergamot",
+      "lemon",
+      "grapefruit",
+      "fig-nectar",
+      "pink-pepper",
+      "jasmine-petals",
+      "fig-wood",
+      "cedarwood",
+      "benzoin"
+    ],
+    "pyramid": {
+      "top": [
+        "bergamot",
+        "lemon",
+        "grapefruit"
+      ],
+      "heart": [
+        "fig-nectar",
+        "pink-pepper",
+        "jasmine-petals"
+      ],
+      "base": [
+        "fig-wood",
+        "cedarwood",
+        "benzoin"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "acqua-di-parma-fico-di-amalfi-edt-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/fico-di-amalfi/FICODIAMALFISUMMEREDT.html",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.acquadiparma.com/en/us/fico-di-amalfi/FICODIAMALFISUMMEREDT.html",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": "本条来源展示 La Caletta 夏季限定包装的 Fico di Amalfi 淡香水。"
+  },
+  {
+    "id": "acqua-di-parma-arancia-di-capri-edt",
+    "brandId": "acqua-di-parma",
+    "nameZh": null,
+    "nameEn": "Arancia di Capri",
+    "aliases": [],
+    "series": null,
+    "concentration": "Eau de Toilette",
+    "family": null,
+    "year": null,
+    "status": null,
+    "image": null,
+    "noteIds": [
+      "sweet-orange",
+      "mandarin",
+      "lemon",
+      "petitgrain",
+      "cardamom",
+      "caramel",
+      "musk"
+    ],
+    "pyramid": {
+      "top": [
+        "sweet-orange",
+        "mandarin",
+        "lemon"
+      ],
+      "heart": [
+        "petitgrain",
+        "cardamom"
+      ],
+      "base": [
+        "caramel",
+        "musk"
+      ]
+    },
+    "sizes": [
+      {
+        "id": "acqua-di-parma-arancia-di-capri-edt-50ml",
+        "ml": 50,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=30ML",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "acqua-di-parma-arancia-di-capri-edt-100ml",
+        "ml": 100,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=30ML",
+        "verifiedAt": "2026-11-05"
+      },
+      {
+        "id": "acqua-di-parma-arancia-di-capri-edt-180ml",
+        "ml": 180,
+        "priceCnyFen": null,
+        "sourceUrl": "https://www.acquadiparma.com/en/us/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=30ML",
+        "verifiedAt": "2026-11-05"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.acquadiparma.com/en/us/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=30ML",
+        "type": "official",
+        "verifiedAt": "2026-11-05",
+        "label": "品牌官方商品页：名称、版本及公开资料"
+      }
+    ],
+    "description": null
+  }
+]
