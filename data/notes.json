@@ -1888,5 +1888,19 @@
       "Heirloom Jasmine"
     ],
     "category": "品牌公开香调"
+  },
+  {
+    "id": "clove",
+    "nameZh": "丁香",
+    "nameEn": "Clove",
+    "aliases": [],
+    "category": "品牌公开香调"
+  },
+  {
+    "id": "damask-rose",
+    "nameZh": "大马士革玫瑰",
+    "nameEn": "Damask Rose",
+    "aliases": [],
+    "category": "品牌公开香调"
   }
 ]
