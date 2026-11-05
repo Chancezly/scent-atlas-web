@@ -275,9 +275,12 @@
   {
     "id": "hermes-musc-pallida-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列麝影流金香水",
     "nameEn": "Musc Pallida Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列麝影流金香水",
+      "Musc Pallida Eau de parfum"
+    ],
     "series": "Musc Pallida",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -292,16 +295,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列麝影流金香水-V117337V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-ginseng-biloba-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列摇曳人参香型香水",
     "nameEn": "Ginseng biloba Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列摇曳人参香型香水",
+      "Ginseng biloba Eau de parfum"
+    ],
     "series": "Ginseng biloba",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -316,16 +329,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列摇曳人参香型香水-V116173V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-ambre-narguile-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列琥珀烟云淡香水",
     "nameEn": "Ambre Narguile Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列琥珀烟云淡香水",
+      "Ambre Narguile Eau de toilette"
+    ],
     "series": "Ambre Narguile",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -340,16 +363,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列琥珀烟云淡香水-V113483V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-oud-alezan-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列乌木灵犀香型香水",
     "nameEn": "Oud Alezan Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列乌木灵犀香型香水",
+      "Oud Alezan Eau de parfum"
+    ],
     "series": "Oud Alezan",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -364,9 +397,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列乌木灵犀香型香水-V113467V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-cardamusc-essence-de-parfum",
@@ -419,9 +459,12 @@
   {
     "id": "hermes-vetiver-tonka-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列零陵香根草香淡香水",
     "nameEn": "Vetiver Tonka Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列零陵香根草香淡香水",
+      "Vetiver Tonka Eau de toilette"
+    ],
     "series": "Vetiver Tonka",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -436,16 +479,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列零陵香根草香淡香水-V113580V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-santal-massoia-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列檀香玛索亚香型淡香水",
     "nameEn": "Santal Massoia Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列檀香玛索亚香型淡香水",
+      "Santal Massoia Eau de toilette"
+    ],
     "series": "Santal Massoia",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -460,16 +513,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列檀香玛索亚香型淡香水-V113579V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-cedre-sambac-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列雪松茉莉香型淡香水",
     "nameEn": "Cedre Sambac Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列雪松茉莉香型淡香水",
+      "Cedre Sambac Eau de toilette"
+    ],
     "series": "Cedre Sambac",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -484,9 +547,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列雪松茉莉香型淡香水-V113485V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-iris-ukiyoe-eau-de-toilette",
@@ -515,9 +585,12 @@
   {
     "id": "hermes-poivre-samarcande-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香系列椒香丝路淡香水",
     "nameEn": "Poivre Samarcande Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香系列椒香丝路淡香水",
+      "Poivre Samarcande Eau de toilette"
+    ],
     "series": "Poivre Samarcande",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -532,9 +605,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香系列椒香丝路淡香水-V113577V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-myrrhe-eglantine-eau-de-toilette",
@@ -563,9 +643,12 @@
   {
     "id": "hermes-agar-ebene-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香珍藏系列黑檀沉香香型淡香水",
     "nameEn": "Agar Ebene Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香珍藏系列黑檀沉香香型淡香水",
+      "Agar Ebene Eau de toilette"
+    ],
     "series": "Agar Ebene",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -580,9 +663,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香珍藏系列黑檀沉香香型淡香水-V113482V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-epice-marine-eau-de-toilette",
@@ -635,9 +725,12 @@
   {
     "id": "hermes-violette-volynka-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕紫罗兰香型淡香水",
     "nameEn": "Violette Volynka Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "紫罗兰香型淡香水",
+      "Violette Volynka Eau de toilette"
+    ],
     "series": "Violette Volynka",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -652,16 +745,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕紫罗兰香型淡香水-V113581V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-osmanthe-yunnan-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香系列云南桂花香淡香水",
     "nameEn": "Osmanthe Yunnan Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香系列云南桂花香淡香水",
+      "Osmanthe Yunnan Eau de toilette"
+    ],
     "series": "Osmanthe Yunnan",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -676,16 +779,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香系列云南桂花香淡香水-V113576V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-rose-ikebana-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕闻香系列淡香水（玫瑰花道香）",
     "nameEn": "Rose Ikebana Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "闻香系列淡香水（玫瑰花道香）",
+      "Rose Ikebana Eau de toilette"
+    ],
     "series": "Rose Ikebana",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -700,16 +813,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bambre_narguile%253bosmanthe_yunnan%253bpoivre_samarcande%253brose_ikebana%253bagar__b_ne%253bvetiver_tonka%253bmyrrhe__glantine%253bc_dre_sambac%253bviolette_volynka%253bmusc_pallida%253bcardamusc%253boud_alezan%253bginseng_biloba%253boud_esma%253biris_ukiyoe%253bsantal_massoia%253bepice_marine%253bbrin_de_reglisse%253bcabriole%253bcuir_d_ange%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕闻香系列淡香水玫瑰花道香-V113578V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-concentre-d-orange-verte-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕橘绿之泉浓缩淡香水",
     "nameEn": "Concentre d'orange verte Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "橘绿之泉浓缩淡香水",
+      "Concentre d'orange verte Eau de toilette"
+    ],
     "series": "Concentre d'orange verte",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -724,9 +847,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕橘绿之泉浓缩淡香水-V24723/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-eau-d-orange-verte-eau-de-cologne",
@@ -755,9 +885,11 @@
   {
     "id": "hermes-eau-de-citron-noir-eau-de-cologne",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕黑柠檬香型古龙水",
     "nameEn": "Eau de citron noir Eau de cologne",
-    "aliases": [],
+    "aliases": [
+      "黑柠檬香型古龙水"
+    ],
     "series": "Eau de citron noir Eau de",
     "concentration": "Eau de Cologne",
     "family": null,
@@ -772,9 +904,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E9%BB%91%E6%9F%A0%E6%AA%AC%E9%A6%99%E5%9E%8B%E5%8F%A4%E9%BE%99%E6%B0%B4-V40408/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名：对应版本官网商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "采用爱马仕大陆官网对应版本名称。"
   },
   {
     "id": "hermes-eau-de-rhubarbe-ecarlate-eau-de-cologne",
@@ -803,9 +942,11 @@
   {
     "id": "hermes-eau-de-pamplemousse-rose-eau-de-cologne",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕粉红葡萄柚香型古龙水",
     "nameEn": "Eau de pamplemousse rose Eau de cologne",
-    "aliases": [],
+    "aliases": [
+      "粉红葡萄柚香型古龙水"
+    ],
     "series": "Eau de pamplemousse rose Eau de",
     "concentration": "Eau de Cologne",
     "family": null,
@@ -820,9 +961,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257beau_d_orange_verte%253beau_de_rhubarbe_ecarlate%253beau_de_citron_noir%253bconcentre_de_pamplemousse_rose%253beau_de_mandarine_ambree%253beau_de_pamplemousse_rose%253beau_de_gentiane_blanche%253beau_de_narcisse_bleu%253beau_de_neroli_dore%253beau_de_basilic_pourpre%253bconcentre_d_orange_verte%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E7%B2%89%E7%BA%A2%E8%91%A1%E8%90%84%E6%9F%9A%E9%A6%99%E5%9E%8B%E5%8F%A4%E9%BE%99%E6%B0%B4-V25602/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名：对应版本官网商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "采用爱马仕大陆官网对应版本名称。"
   },
   {
     "id": "hermes-concentre-de-pamplemousse-rose-eau-de-toilette",
@@ -947,9 +1095,11 @@
   {
     "id": "hermes-bel-ami-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕漂亮朋友淡香氛",
     "nameEn": "Bel Ami Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "漂亮朋友淡香氛"
+    ],
     "series": "Bel Ami",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -964,9 +1114,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E6%BC%82%E4%BA%AE%E6%9C%8B%E5%8F%8B%E6%B7%A1%E9%A6%99%E6%B0%9B-V38274/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名：对应版本官网商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "采用爱马仕大陆官网对应版本名称。"
   },
   {
     "id": "hermes-eau-d-hermes-eau-de-toilette",
@@ -1139,9 +1296,12 @@
   {
     "id": "hermes-jour-d-hermes-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕之光系列淡香精",
     "nameEn": "Jour d'Hermès Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "之光系列淡香精",
+      "Jour d'Hermès Eau de parfum"
+    ],
     "series": "Jour d'Hermès",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1156,9 +1316,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕之光系列淡香精-V27555/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-jour-d-hermes-absolu-eau-de-parfum",
@@ -1211,9 +1378,12 @@
   {
     "id": "hermes-kelly-caleche-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕凯莉凯莱诗淡香水",
     "nameEn": "Kelly Caleche Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "凯莉凯莱诗淡香水",
+      "Kelly Caleche Eau de toilette"
+    ],
     "series": "Kelly Caleche",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1228,16 +1398,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕凯莉凯莱诗淡香水-V22217/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-terre-d-hermes-eau-de-parfum-intense",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕大地馥郁香水",
     "nameEn": "Terre d'Hermès Eau de parfum intense",
-    "aliases": [],
+    "aliases": [
+      "大地馥郁香水",
+      "Terre d'Hermès Eau de parfum intense"
+    ],
     "series": "Terre d'Hermès Eau de parfum intense",
     "concentration": "Eau de Parfum Intense",
     "family": null,
@@ -1252,16 +1432,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地馥郁香水-V111231V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-terre-d-hermes-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕大地淡香水",
     "nameEn": "Terre d'Hermes Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "大地淡香水",
+      "Terre d'Hermes Eau de toilette"
+    ],
     "series": "Terre d'Hermes",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1276,9 +1466,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕大地淡香水-V107189V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-terre-d-hermes-parfum",
@@ -1486,9 +1683,12 @@
   {
     "id": "hermes-barenia-pleine-fleur-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕巴赫尼绽放由心香水",
     "nameEn": "Barénia Pleine Fleur Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "巴赫尼绽放由心香水",
+      "Barénia Pleine Fleur Eau de parfum"
+    ],
     "series": "Barénia Pleine Fleur",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1503,16 +1703,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕巴赫尼绽放由心香水-V118010V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-barenia-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕巴赫尼香水",
     "nameEn": "Barénia Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "巴赫尼香水",
+      "Barénia Eau de parfum"
+    ],
     "series": "Barénia",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1527,16 +1737,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕巴赫尼香水-V115959V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-barenia-eau-de-parfum-intense",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕巴赫尼馥郁香水",
     "nameEn": "Barénia Eau de parfum intense",
-    "aliases": [],
+    "aliases": [
+      "巴赫尼馥郁香水",
+      "Barénia Eau de parfum intense"
+    ],
     "series": "Barénia Eau de parfum intense",
     "concentration": "Eau de Parfum Intense",
     "family": null,
@@ -1551,16 +1771,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕巴赫尼馥郁香水-V116302V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-un-jardin-en-mediterranee-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕地中海花园系列香水",
     "nameEn": "Un Jardin en Mediterranee Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "地中海花园系列香水",
+      "Un Jardin en Mediterranee Eau de toilette"
+    ],
     "series": "Un Jardin en Mediterranee",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1575,16 +1805,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕地中海花园系列香水-V712650/1/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-un-jardin-sous-la-mer-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕海岛花园淡香水",
     "nameEn": "Un Jardin sous la Mer Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "海岛花园淡香水",
+      "Un Jardin sous la Mer Eau de toilette"
+    ],
     "series": "Un Jardin sous la Mer",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1599,16 +1839,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕海岛花园淡香水-V117484V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-un-jardin-sur-la-lagune-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕潟湖花园淡香水",
     "nameEn": "Un Jardin sur la Lagune Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "潟湖花园淡香水",
+      "Un Jardin sur la Lagune Eau de toilette"
+    ],
     "series": "Un Jardin sur la Lagune",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1623,16 +1873,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕潟湖花园淡香水-V100079V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-un-jardin-sur-le-toit-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕屋顶花园系列淡香水",
     "nameEn": "Un Jardin sur le Toit Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "屋顶花园系列淡香水",
+      "Un Jardin sur le Toit Eau de toilette"
+    ],
     "series": "Un Jardin sur le Toit",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1647,16 +1907,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕屋顶花园系列淡香水-V111533VN/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-twilly-d-hermes-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕丝意女士淡香精",
     "nameEn": "Twilly d'Hermes Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "丝意女士淡香精",
+      "Twilly d'Hermes Eau de parfum"
+    ],
     "series": "Twilly d'Hermes",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1671,16 +1941,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕丝意女士淡香精-V107263V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-tutti-twilly-d-hermes-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕丝意荔韵淡香精",
     "nameEn": "Tutti Twilly d'Hermès Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "丝意荔韵淡香精",
+      "Tutti Twilly d'Hermès Eau de parfum"
+    ],
     "series": "Tutti Twilly d'Hermès",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1695,16 +1975,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕丝意荔韵淡香精-V110826VN/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-twilly-d-hermes-eau-ginger-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕丝意姜香淡香精",
     "nameEn": "Twilly d'Hermès Eau Ginger Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "丝意姜香淡香精",
+      "Twilly d'Hermès Eau Ginger Eau de parfum"
+    ],
     "series": "Twilly d'Hermès Eau Ginger",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1719,16 +2009,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕丝意姜香淡香精-V103949VN/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-twilly-d-hermes-eau-poivree-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕丝意粉红椒香淡香精",
     "nameEn": "Twilly d'Hermes Eau Poivree Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "丝意粉红椒香淡香精",
+      "Twilly d'Hermes Eau Poivree Eau de parfum"
+    ],
     "series": "Twilly d'Hermes Eau Poivree",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1743,16 +2043,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕丝意粉红椒香淡香精-V107175VN/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-h24-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕律动二十四淡香精",
     "nameEn": "H24 Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "律动二十四淡香精",
+      "H24 Eau de parfum"
+    ],
     "series": "H24",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1767,9 +2077,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕律动二十四淡香精-V108422V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-h24-eau-de-toilette",
@@ -1798,9 +2115,12 @@
   {
     "id": "hermes-h24-herbes-vives-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕律动二十四雨后沁然逸动香水",
     "nameEn": "H24 Herbes Vives Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "律动二十四雨后沁然逸动香水",
+      "H24 Herbes Vives Eau de parfum"
+    ],
     "series": "H24 Herbes Vives",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1815,16 +2135,26 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕律动二十四雨后沁然逸动香水-V113601V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-l-ombre-des-merveilles-eau-de-parfum",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕暗影橘彩星光香水",
     "nameEn": "L'Ombre des Merveilles Eau de parfum",
-    "aliases": [],
+    "aliases": [
+      "暗影橘彩星光香水",
+      "L'Ombre des Merveilles Eau de parfum"
+    ],
     "series": "L'Ombre des Merveilles",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1839,9 +2169,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕暗影橘彩星光香水-V101654V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-l-ambre-des-merveilles-eau-de-parfum",
@@ -1870,9 +2207,12 @@
   {
     "id": "hermes-eau-des-merveilles-bleue-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕蓝色橘彩星光淡香水",
     "nameEn": "Eau des Merveilles Bleue Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "蓝色橘彩星光淡香水",
+      "Eau des Merveilles Bleue Eau de toilette"
+    ],
     "series": "Eau des Merveilles Bleue",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1887,9 +2227,16 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/爱马仕蓝色橘彩星光淡香水-V107059V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名称：对应版本官方商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称采用爱马仕大陆官网对应版本商品名。"
   },
   {
     "id": "hermes-elixir-des-merveilles-eau-de-parfum",
@@ -1942,9 +2289,11 @@
   {
     "id": "hermes-voyage-d-hermes-eau-de-toilette",
     "brandId": "hermes",
-    "nameZh": null,
+    "nameZh": "爱马仕之旅系列淡香氛",
     "nameEn": "Voyage d'Hermès Eau de toilette",
-    "aliases": [],
+    "aliases": [
+      "之旅系列淡香氛"
+    ],
     "series": "Voyage d'Hermès",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -1959,8 +2308,15 @@
         "url": "https://www.hermes.com/us/en/category/fragrances/?filters_param=fh_view_size%3D40%26country%3Dus%26fh_refpath%3D55f194a0-0331-46cf-a2ef-7c42c65a8206%26fh_refview%3Dlister%26fh_reffacet%3Ddisplay_name%26fh_location%3D%252f%252fcatalog01%252fen_US%252fis_visible%253e%257bus%257d%252fis_searchable%253e%257bus%257d%252fis_sellable%253e%257bus%257d%252fhas_stock%253e%257bus%257d%252fitem_type%253dproduct%252fcategories%253c%257bcatalog01_fragrancesmakeup_fragrances%257d%252fdisplay_name%253e%257bjour_d_hermes%253bkelly_caleche%253bjour_d_hermes_absolu%253bjour_d_hermes_gardenia%253bcabriole%253b24_faubourg%253bgalop_hermes%257d",
         "type": "official",
         "verifiedAt": "2026-11-03"
+      },
+      {
+        "url": "https://www.hermes.cn/cn/zh/product/%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B9%8B%E6%97%85%E7%B3%BB%E5%88%97%E6%B7%A1%E9%A6%99%E6%B0%9B-V107570V0/",
+        "type": "official-cn",
+        "verifiedAt": "2026-11-05",
+        "label": "中文名：对应版本官网商品页"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "采用爱马仕大陆官网对应版本名称。"
   }
 ]

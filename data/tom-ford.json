@@ -74,9 +74,12 @@
   {
     "id": "tom-ford-lost-cherry-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "失落樱桃淡香精",
     "nameEn": "Lost Cherry Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "落红樱桃",
+      "Lost Cherry Eau de Parfum"
+    ],
     "series": "Lost Cherry",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -152,16 +155,26 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://mall.jd.com/view_search-2281421-22099459-99-1-24-1.html",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-tobacco-vanille-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "韵度烟草淡香精",
     "nameEn": "Tobacco Vanille Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "烟叶香草",
+      "Tobacco Vanille Eau de Parfum"
+    ],
     "series": "Tobacco Vanille",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -237,16 +250,25 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320002101",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "璀璨流光淡香水",
     "nameEn": "Eau de Soleil Blanc Eau de Toilette",
-    "aliases": [],
+    "aliases": [
+      "Eau de Soleil Blanc Eau de Toilette"
+    ],
     "series": "Eau de Soleil Blanc",
     "concentration": "Eau de Toilette",
     "family": null,
@@ -297,9 +319,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.nosetime.com/wenzhang/765.html",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-black-orchid-reserve",
@@ -463,9 +492,12 @@
   {
     "id": "tom-ford-ombre-leather-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "神秘旷野淡香精",
     "nameEn": "Ombré Leather Eau De Parfum",
-    "aliases": [],
+    "aliases": [
+      "光影皮革",
+      "Ombré Leather Eau De Parfum"
+    ],
     "series": "Ombré Leather",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -543,16 +575,26 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/21269",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-oud-wood-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "珍华乌木淡香精",
     "nameEn": "Oud Wood Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "乌木沉香",
+      "Oud Wood Eau de Parfum"
+    ],
     "series": "Oud Wood",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -630,9 +672,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320000601",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-tobacco-vanille-parfum",
@@ -1031,9 +1080,12 @@
   {
     "id": "tom-ford-neroli-portofino-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "绝耀倾橙淡香精",
     "nameEn": "Neroli Portofino Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "橙花油",
+      "Neroli Portofino Eau de Parfum"
+    ],
     "series": "Neroli Portofino",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1110,16 +1162,25 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320004001",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-vanilla-sex-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "纵情香草淡香精",
     "nameEn": "Vanilla Sex Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "Vanilla Sex Eau de Parfum"
+    ],
     "series": "Vanilla Sex",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1195,16 +1256,26 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/22325",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-soleil-blanc-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "璀璨流光淡香精",
     "nameEn": "Soleil Blanc Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "阳光琥珀",
+      "Soleil Blanc Eau de Parfum"
+    ],
     "series": "Soleil Blanc",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1282,9 +1353,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320001301",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette",
@@ -1433,9 +1511,12 @@
   {
     "id": "tom-ford-santal-blush-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "嫣红檀香淡香精",
     "nameEn": "Santal Blush Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "落木飞霞",
+      "Santal Blush Eau de Parfum"
+    ],
     "series": "Santal Blush",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1492,9 +1573,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://m.perfectperfume.cn/pd.jsp?pid=7280",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-neroli-portofino-parfum",
@@ -1557,9 +1645,11 @@
   {
     "id": "tom-ford-soleil-neige-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "雪映流光淡香精",
     "nameEn": "Soleil Neige Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "雪映流光"
+    ],
     "series": "Soleil Neige",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1630,9 +1720,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.danbeautymall.com/products/tf-soleil-neige-edp",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅用于名称）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名采用所列零售资料的译名，不同地区命名可能不同；以英文名和浓度确认版本。"
   },
   {
     "id": "tom-ford-electric-cherry-eau-de-parfum",
@@ -1709,9 +1806,11 @@
   {
     "id": "tom-ford-grey-vetiver-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "灰色香根草淡香精",
     "nameEn": "Grey Vetiver Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "Grey Vetiver Eau de Parfum"
+    ],
     "series": "Grey Vetiver",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1768,9 +1867,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/10361",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-bois-pacifique-eau-de-parfum",
@@ -1841,9 +1947,12 @@
   {
     "id": "tom-ford-rose-prick-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "禁忌玫瑰淡香精",
     "nameEn": "Rose Prick Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "荆刺玫瑰",
+      "Rose Prick Eau de Parfum"
+    ],
     "series": "Rose Prick",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -1913,9 +2022,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.vogue.com.tw/article/tom-ford-%E7%8E%AB%E7%91%B0%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%96%A6",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-eau-dombre-leather-eau-de-toilette",
@@ -1992,9 +2108,11 @@
   {
     "id": "tom-ford-ombre-leather-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "神秘旷野深邃版香精",
     "nameEn": "Ombré Leather Parfum",
-    "aliases": [],
+    "aliases": [
+      "Ombré Leather Parfum"
+    ],
     "series": "Ombré Leather",
     "concentration": "Parfum",
     "family": null,
@@ -2058,9 +2176,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/21269",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-oud-minerale-eau-de-parfum",
@@ -2125,9 +2250,11 @@
   {
     "id": "tom-ford-cherry-smoke-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "烟熏樱桃淡香精",
     "nameEn": "Cherry Smoke Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "Cherry Smoke Eau de Parfum"
+    ],
     "series": "Cherry Smoke",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2183,9 +2310,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/22088",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-vanille-fatale-eau-de-parfum",
@@ -2313,9 +2447,13 @@
   {
     "id": "tom-ford-ebene-fume-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "烟氲圣木淡香精",
     "nameEn": "Ébène Fumé Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "烟熏圣木",
+      "烟熏乌木",
+      "Ébène Fumé Eau de Parfum"
+    ],
     "series": "Ébène Fumé",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2384,16 +2522,26 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.chelseainternational.hk/tom-ford-ebene-fume-edp-30ml-tom-ford-30ml.html",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-myrrhe-mystere-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "隐秘没药淡香精",
     "nameEn": "Myrrhe Mystère Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "神秘曙光",
+      "Myrrhe Mystère Eau de Parfum"
+    ],
     "series": "Myrrhe Mystère",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2449,9 +2597,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/22089",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-costa-azzurra-parfum",
@@ -2515,9 +2670,11 @@
   {
     "id": "tom-ford-white-suede-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "白麝香淡香精",
     "nameEn": "White Suede Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "白麝香"
+    ],
     "series": "White Suede",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2582,9 +2739,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.1976.com.tw/prod/18450",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅用于名称）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名采用所列零售资料的译名，不同地区命名可能不同；以英文名和浓度确认版本。"
   },
   {
     "id": "tom-ford-costa-azzurra-eau-de-parfum",
@@ -2721,9 +2885,12 @@
   {
     "id": "tom-ford-black-lacquer-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "诱感黑漆淡香精",
     "nameEn": "Black Lacquer Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "黑漆",
+      "Black Lacquer Eau de Parfum"
+    ],
     "series": "Black Lacquer",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2792,9 +2959,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320010201",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-rose-exposed-eau-de-parfum",
@@ -2863,9 +3037,12 @@
   {
     "id": "tom-ford-noir-de-noir-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "浓郁奢黑淡香精",
     "nameEn": "Noir de Noir Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "黑之黑",
+      "Noir de Noir Eau de Parfum"
+    ],
     "series": "Noir de Noir",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -2922,9 +3099,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://cn.hd-dfs.com/shop/gd/dtl/goos.do?onlnGoosCd=10271320004401",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-bois-marocain-eau-de-parfum",
@@ -3105,9 +3289,12 @@
   {
     "id": "tom-ford-tuscan-leather-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "奢迷皮草淡香精",
     "nameEn": "Tuscan Leather Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "托斯卡纳皮革",
+      "Tuscan Leather Eau de Parfum"
+    ],
     "series": "Tuscan Leather",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -3172,9 +3359,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.nosetime.com/xiangshui/418144.html",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。"
+    "description": "香调依据官方商品页 Key Notes，统一为通用香调名称；不推断前中后调。产地、萃取工艺和专有香基名称未作为额外香调重复计数。",
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-fucking-fabulous-parfum",
@@ -3238,9 +3432,12 @@
   {
     "id": "tom-ford-cafe-rose-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "深焙玫瑰淡香精",
     "nameEn": "Café Rose Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "咖啡玫瑰",
+      "Café Rose Eau de Parfum"
+    ],
     "series": "Café Rose",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -3291,9 +3488,16 @@
         "type": "official",
         "verifiedAt": "2026-11-04",
         "label": "英国官网：对应香水正面图及容量"
+      },
+      {
+        "url": "https://www.vogue.com.tw/article/tom-ford-%E7%8E%AB%E7%91%B0%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%96%A6",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-azure-lime-eau-de-parfum",
@@ -3673,9 +3877,11 @@
   {
     "id": "tom-ford-rose-d-amalfi-eau-de-parfum",
     "brandId": "tom-ford",
-    "nameZh": null,
+    "nameZh": "阿玛菲玫瑰淡香精",
     "nameEn": "Rose D'Amalfi Eau de Parfum",
-    "aliases": [],
+    "aliases": [
+      "Rose D'Amalfi Eau de Parfum"
+    ],
     "series": "Rose D'Amalfi",
     "concentration": "Eau de Parfum",
     "family": null,
@@ -3691,9 +3897,16 @@
         "type": "official-catalog",
         "verifiedAt": "2026-11-03",
         "label": "官方目录：名称与版本核验"
+      },
+      {
+        "url": "https://www.vogue.com.tw/article/tom-ford-%E7%8E%AB%E7%91%B0%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%96%A6",
+        "type": "name-reference",
+        "verifiedAt": "2026-11-05",
+        "label": "中文译名出处（仅名称依据，非大陆官方价格来源）"
       }
     ],
-    "description": null
+    "description": null,
+    "nameZhNote": "中文名称依据所列中文零售或香氛资料；不同地区译名可能不同，英文名与浓度用于确认版本。"
   },
   {
     "id": "tom-ford-fougere-d-argent-eau-de-parfum",
